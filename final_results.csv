@@ -1,0 +1,1113 @@
+Year;Name;Category;Bibtex
+1990;Some conundrums concerning separation of duty;SoD Enforcement/Implementation & Software Developement;"@INPROCEEDINGS{,
+  author={Nash, M.J. and Poland, K.R.},
+  booktitle={Proceedings. 1990 IEEE Computer Society Symposium on Research in Security and Privacy}, 
+  title={Some conundrums concerning separation of duty}, 
+  year={1990},
+  volume={},
+  number={},
+  pages={201-207},
+  doi={10.1109/RISP.1990.63851}}"
+1990;Separation of Duties in Computerized Information Systems.;SoD Enforcement/Databases;"@inproceedings{,
+  title={Separation of Duties in Computerized Information Systems.},
+  author={Sandhu, Ravi S},
+  booktitle={DBSec},
+  pages={179--190},
+  year={1990},
+  organization={Citeseer}
+}"
+1991;Separation of duty using high water marks;SoD Specifications/Models/Other;"@INPROCEEDINGS {,
+    author = {S. Foley},
+    booktitle = {Proceedings Computer Security Foundations Workshop IV},
+    title = {Separation of duty using high water marks},
+    year = {1991},
+    volume = {},
+    issn = {},
+    pages = {79,80,81,82,83,84,85,86,87,88},
+    doi = {10.1109/CSFW.1991.151572},
+    url = {https://doi.ieeecomputersociety.org/10.1109/CSFW.1991.151572},
+    publisher = {IEEE Computer Society},
+    address = {Los Alamitos, CA, USA},
+    month = {jun}
+}"
+1992;Implementing transaction control expressions by checking for absence of access rights;SoD Enforcement/Databases;"@INPROCEEDINGS {implementing_tce,
+author = {P. Ammann and R. Sandhu},
+booktitle = {Proceedings Eighth Annual Computer Security Application Conference},
+title = {Implementing transaction control expressions by checking for absence of access rights},
+year = {1992},
+volume = {},
+issn = {},
+pages = {131,132,133,134,135,136,137,138,139,140},
+doi = {10.1109/CSAC.1992.228226},
+url = {https://doi.ieeecomputersociety.org/10.1109/CSAC.1992.228226},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {dec}
+}"
+1993;Role-Based Security, Object Oriented SoD Enforcement/Databasess and Separation of Duty;SoD Enforcement/Databases;"@article{,
+author = {Nyanchama, Matunda and Osborn, Sylvia},
+title = {Role-Based Security, Object Oriented SoD Enforcement/Databasess and Separation of Duty},
+year = {1993},
+issue_date = {Dec. 1993},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {22},
+number = {4},
+issn = {0163-5808},
+url = {https://doi.org/10.1145/166635.166652},
+doi = {10.1145/166635.166652},
+journal = {SIGMOD Rec.},
+month = {dec},
+pages = {45–51},
+numpages = {7}
+}"
+1997;Separation of duty in role-based environments;SoD Enforcement/Implementation & Software Developement;"@INPROCEEDINGS{,
+  author={Simon, R.T. and Zurko, M.E.},
+  booktitle={Proceedings 10th Computer Security Foundations Workshop}, 
+  title={Separation of duty in role-based environments}, 
+  year={1997},
+  volume={},
+  number={},
+  pages={183-194},
+  doi={10.1109/CSFW.1997.596811}}"
+1997;Mutual Exclusion of Roles as a Means of Implementing Separation of Duty in Role-Based Access Control Systems;SoD Specification/Models/RBAC;"@inproceedings{,
+author = {Kuhn, D. Richard},
+title = {Mutual Exclusion of Roles as a Means of Implementing Separation of Duty in Role-Based Access Control Systems},
+year = {1997},
+isbn = {0897919858},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/266741.266749},
+doi = {10.1145/266741.266749},
+booktitle = {Proceedings of the Second ACM Workshop on Role-Based Access Control},
+pages = {23–30},
+numpages = {8},
+location = {Fairfax, Virginia, USA},
+series = {RBAC '97}
+}"
+1998;On the formal definition of separation-of-duty policies and their composition;SoD Specification/Models/RBAC;"@inproceedings{,
+  title={On the formal definition of separation-of-duty policies and their composition},
+  author={Gligor, Virgil D and Gavrila, Serban I and Ferraiolo, David},
+  booktitle={Proceedings. 1998 IEEE Symposium on Security and Privacy (Cat. No. 98CB36186)},
+  pages={172--183},
+  year={1998},
+  organization={IEEE}
+}"
+1999;The RSL99 Language for Role-Based Separation of Duty Constraints;SoD Specification/Models/RBAC;"@inproceedings{,
+author = {Ahn, Gail-Joon and Sandhu, Ravi},
+title = {The RSL99 Language for Role-Based Separation of Duty Constraints},
+year = {1999},
+isbn = {1581131801},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/319171.319176},
+doi = {10.1145/319171.319176},
+booktitle = {Proceedings of the Fourth ACM Workshop on Role-Based Access Control},
+pages = {43–54},
+numpages = {12},
+location = {Fairfax, Virginia, USA},
+series = {RBAC '99}
+}"
+1999;The Specification and Enforcement of Authorization Constraints in Workflow Management Systems;SoD Analyses/Workflow;"@article{,
+author = {Bertino, Elisa and Ferrari, Elena and Atluri, Vijay},
+title = {The Specification and Enforcement of Authorization Constraints in Workflow Management Systems},
+year = {1999},
+issue_date = {Feb. 1999},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {2},
+number = {1},
+issn = {1094-9224},
+url = {https://doi.org/10.1145/300830.300837},
+doi = {10.1145/300830.300837},
+month = {feb},
+pages = {65–104},
+numpages = {40},
+keywords = {role and user planning, access control, authorization constraints}
+}"
+2000;Role-Based Authorization Constraints Specification;SoD Specification/Models/RBAC;"@article{,
+author = {Ahn, Gail-Joon and Sandhu, Ravi},
+title = {Role-Based Authorization Constraints Specification},
+year = {2000},
+issue_date = {Nov. 2000},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {3},
+number = {4},
+issn = {1094-9224},
+url = {https://doi.org/10.1145/382912.382913},
+doi = {10.1145/382912.382913},
+month = {nov},
+pages = {207–226},
+numpages = {20},
+}"
+2000;Integrated Constraints and Inheritance in DTAC;SoD Specifications/Models/Other;"@inproceedings{,
+    author = {Tidswell, Jonathon E. and Jaeger, Trent},
+    title = {Integrated Constraints and Inheritance in DTAC},
+    year = {2000},
+    isbn = {158113259X},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/344287.344307},
+    doi = {10.1145/344287.344307},
+    pages = {93–102},
+    numpages = {10},
+    location = {Berlin, Germany},
+    series = {RBAC '00}
+}"
+2001;Separation of duties for access control enforcement in workflow environments;SoD Enforcement/Models/Workflows;"@ARTICLE{,
+  author={Botha, R. A. and Eloff, J. H. P.},
+  journal={IBM Systems Journal}, 
+  title={Separation of duties for access control enforcement in workflow environments}, 
+  year={2001},
+  volume={40},
+  number={3},
+  pages={666-682},
+  doi={10.1147/sj.403.0666}}"
+2001;Detecting conflicts in a role-based delegation mode;SoD Enforcement/Implementation & Software Developement;"@INPROCEEDINGS{,
+  author={Schaad, A.},
+  booktitle={Seventeenth Annual Computer Security Applications Conference}, 
+  title={Detecting conflicts in a role-based delegation model}, 
+  year={2001},
+  volume={},
+  number={},
+  pages={117-126},
+  doi={10.1109/ACSAC.2001.991528}}"
+2001;Analyzing Separation of Duties in Petri Net Workflows;SoD Specification/Models/Petri nets;"@InProceedings{analyzing_sod_in_petri_nets_workflows,
+author=""Knorr, Konstantin
+and Weidner, Harald"",
+editor=""Gorodetski, Vladimir I.
+and Skormin, Victor A.
+and Popyack, Leonard J."",
+title=""Analyzing Separation of Duties in Petri Net Workflows"",
+booktitle=""Information Assurance in Computer Networks"",
+year=""2001"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""102--114"",
+isbn=""978-3-540-45116-7""
+}"
+2001;Modeling and Analyzing Separation of Duties in Workflow Environments;SoD Specifications/Modelling Languages/Other;"@InProceedings{,
+author=""Knorr, Konstantin
+and Stormer, Henrik"",
+editor=""Dupuy, Michel
+and Paradinas, Pierre"",
+title=""Modeling and Analyzing Separation of Duties in Workflow Environments"",
+booktitle=""Trusted Information"",
+year=""2001"",
+publisher=""Springer US"",
+address=""Boston, MA"",
+pages=""199--212"",
+isbn=""978-0-306-46998-5""
+}"
+2001;Generalized Temporal Role Based Access Control Model (GTRBAC) (Part I)Specification and Modeling;SoD Specification/Models/RBAC;"@article{joshi2003_p1,
+author = {Joshi, James and Bertino, Elisa and Latif, U. and Ghafoor, A.},
+year = {2001},
+month = {01},
+pages = {},
+title = {Generalized Temporal Role Based Access Control Model (GTRBAC) (Part I)Specification and Modeling},
+journal = {IEEE Transactions on Knowledge and Data Engineering - TKDE}
+}"
+2001;Role-Based Authorization Constraints Specification Using Object Constraint Language;SoD Specification/Modelling Languages/UML;"@INPROCEEDINGS {,
+author = {M. E. Shin and G. Ahn},
+booktitle = {2012 IEEE 21st International Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises},
+title = {Role-Based Authorization Constraints Specification Using Object Constraint Language},
+year = {2001},
+volume = {},
+issn = {1080-1383},
+pages = {157},
+doi = {10.1109/ENABL.2001.953406},
+url = {https://doi.ieeecomputersociety.org/10.1109/ENABL.2001.953406},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {jun}
+}"
+2002;A Framework for Organisational Control Principles;SoD Specifications/Modelling Languages/Other;"@INPROCEEDINGS {_1,
+author = {A. Schaad and J. D. Moffett},
+booktitle = {Computer Security Applications Conference, Annual},
+title = {A Framework for Organisational Control Principles},
+year = {2002},
+volume = {},
+issn = {1063-9527},
+pages = {229},
+doi = {10.1109/CSAC.2002.1176294},
+url = {https://doi.ieeecomputersociety.org/10.1109/CSAC.2002.1176294},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {dec}
+}"
+2002;A Lightweight Approach to Specification and Analysis of Role-Based Access Control Extensions;SoD Specifications/Modelling Languages/Other;"@inproceedings{,
+author = {Schaad, Andreas and Moffett, Jonathan D.},
+title = {A Lightweight Approach to Specification and Analysis of Role-Based Access Control Extensions},
+year = {2002},
+isbn = {1581134967},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/507711.507714},
+doi = {10.1145/507711.507714},
+pages = {13–22},
+numpages = {10},
+keywords = {alloy, ARBAC97, separation of duties},
+location = {Monterey, California, USA},
+series = {SACMAT '02}
+}"
+2003;A temporal-logic extension of role-based access control covering dynamic separation of duties;SoD Specification/Models/RBAC;"@INPROCEEDINGS{,
+  author={Mossakowski, T. and Drouineaud, M. and Sohr, K.},
+  booktitle={10th International Symposium on Temporal Representation and Reasoning, 2003 and Fourth International Conference on Temporal Logic. Proceedings.}, 
+  title={A temporal-logic extension of role-based access control covering dynamic separation of duties}, 
+  year={2003},
+  volume={},
+  number={},
+  pages={83-90},
+  doi={10.1109/TIME.2003.1214883}}"
+2003;Specifying and Enforcing Constraints in Role-Based Access Control;SoD Specification/Models/RBAC;"@inproceedings{,
+author = {Crampton, Jason},
+title = {Specifying and Enforcing Constraints in Role-Based Access Control},
+year = {2003},
+isbn = {1581136811},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/775412.775419},
+doi = {10.1145/775412.775419},
+booktitle = {Proceedings of the Eighth ACM Symposium on Access Control Models and Technologies},
+pages = {43–50},
+numpages = {8},
+keywords = {separation of duty constraint, authorization constraint, role-based access control, enforcement context},
+location = {Como, Italy},
+series = {SACMAT '03}
+}"
+2003;Dependencies and Separation of Duty Constraints in GTRBAC;SoD Specification/Models/RBAC;"@inproceedings{,
+author = {Joshi, James B. D. and Shafiq, Basit and Ghafoor, Arif and Bertino, Elisa},
+title = {Dependencies and Separation of Duty Constraints in GTRBAC},
+year = {2003},
+isbn = {1581136811},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/775412.775420},
+doi = {10.1145/775412.775420},
+pages = {51–64},
+numpages = {14},
+keywords = {role based access control, temporal constraints, cardinality constraint, separation of duty, security},
+location = {Como, Italy},
+series = {SACMAT '03}
+}"
+2003;Visual Specifications of Policies and Their Verification;SoD Specification/Modelling Languages/UML;"@InProceedings{,
+author=""Koch, Manuel
+and Parisi-Presicce, Francesco"",
+editor=""Pezz{\`e}, Mauro"",
+title=""Visual Specifications of Policies and Their Verification"",
+booktitle=""Fundamental Approaches to Software Engineering"",
+year=""2003"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""278--293"",
+isbn=""978-3-540-36578-5""
+}"
+2004;Using Uml to Visualize Role-Based Access Control Constraints;SoD Specification/Modelling Languages/UML;"@inproceedings{,
+author = {Ray, Indrakshi and Li, Na and France, Robert and Kim, Dae-Kyoo},
+title = {Using Uml to Visualize Role-Based Access Control Constraints},
+year = {2004},
+isbn = {1581138725},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/990036.990054},
+doi = {10.1145/990036.990054},
+pages = {115–124},
+numpages = {10},
+keywords = {RBAC, UML, modeling},
+location = {Yorktown Heights, New York, USA},
+series = {SACMAT '04}
+}"
+2004;Role-based authorizations for workflow systems in support of task-based separation of duty;SoD Analyses/Workflow;"@article{s0164-1212,
+title = {Role-based authorizations for workflow systems in support of task-based separation of duty},
+journal = {Journal of Systems and Software},
+volume = {73},
+number = {3},
+pages = {375-387},
+year = {2004},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/S0164-1212(03)00175-4},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121203001754},
+author = {Duen-Ren Liu and Mei-Yu Wu and Shu-Teng Lee},
+}"
+2004;Specifying Role-Based Access Constraints with Object Constraint Language;SoD Specification/Modelling Languages/UML;"@InProceedings{,
+author=""Wang, Hua
+and Zhang, Yanchun
+and Cao, Jinli
+and Yang, Jian"",
+editor=""Yu, Jeffrey Xu
+and Lin, Xuemin
+and Lu, Hongjun
+and Zhang, Yanchun"",
+title=""Specifying Role-Based Access Constraints with Object Constraint Language"",
+booktitle=""Advanced Web Technologies and Applications"",
+year=""2004"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""687--696"",
+isbn=""978-3-540-24655-8""
+}"
+2004;Role Based Access Control;SoD Specification/Models/RBAC;"@standard{,
+  added-at = {2012-05-11T20:45:51.000+0200},
+  author = {{American National Standards Institute}},
+  biburl = {https://www.bibsonomy.org/bibtex/23b8e1ca3861ff9fddf02a868e94cd559/direx},
+  interhash = {a15dd359436d712468854af37f31b7b6},
+  intrahash = {3b8e1ca3861ff9fddf02a868e94cd559},
+  note = {ANSI/INCITS 359-2004},
+  timestamp = {2012-10-24T22:10:47.000+0200},
+  title = {Role Based Access Control},
+  year = 2004
+}"
+2005;A Reference Monitor for Workflow Systems with Constrained Task Execution;SoD Specifications/Models/Workflows;"@inproceedings{crampton2005,
+author = {Crampton, Jason},
+title = {A Reference Monitor for Workflow Systems with Constrained Task Execution},
+year = {2005},
+isbn = {1595930450},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1063979.1063986},
+doi = {10.1145/1063979.1063986},
+pages = {38–47},
+numpages = {10},
+keywords = {workflow system, authorization constraint, entailment constraint, reference monitor},
+location = {Stockholm, Sweden},
+series = {SACMAT '05}
+}"
+2005;Role Activation Management in Role Based Access Control;SoD Enforcement/Models/RBAC;"@InProceedings{11506157_30,
+author=""Lui, Richard W. C.
+and Chow, Sherman S. M.
+and Hui, Lucas C. K.
+and Yiu, S. M."",
+editor=""Boyd, Colin
+and Gonz{\'a}lez Nieto, Juan Manuel"",
+title=""Role Activation Management in Role Based Access Control"",
+booktitle=""Information Security and Privacy"",
+year=""2005"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""358--369"",
+}"
+2005;Specification and Validation of Authorisation Constraints Using UML and OCL;SoD Specification/Modelling Languages/UML;"@InProceedings{,
+author=""Sohr, Karsten
+and Ahn, Gail-Joon
+and Gogolla, Martin
+and Migge, Lars"",
+editor=""di Vimercati, Sabrina de Capitani
+and Syverson, Paul
+and Gollmann, Dieter"",
+title=""Specification and Validation of Authorisation Constraints Using UML and OCL"",
+booktitle=""Computer Security -- ESORICS 2005"",
+year=""2005"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""64--79"",
+isbn=""978-3-540-31981-8""
+}"
+2006;Access Control and Authorization Constraints for WS-BPEL;SoD Specifications/Models/Workflows;"@INPROCEEDINGS {,
+author = {F. Paci and J. Crampton and E. Bertino},
+booktitle = {2006 IEEE International Conference on Web Services},
+title = {Access Control and Authorization Constraints for WS-BPEL},
+year = {2006},
+volume = {},
+issn = {},
+pages = {275-284},
+doi = {10.1109/ICWS.2006.21},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {sep}
+}"
+2006;Constraint Generation for Separation of Duty;SoD Analyses/SoD Generation & Transformation;"@inproceedings{,
+author = {Chen, Hong and Li, Ninghui},
+title = {Constraint Generation for Separation of Duty},
+year = {2006},
+isbn = {1595933530},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1133058.1133077},
+doi = {10.1145/1133058.1133077},
+pages = {130–138},
+numpages = {9},
+keywords = {constraints, role based access control, separation of duty},
+location = {Lake Tahoe, California, USA},
+series = {SACMAT '06}
+}"
+2006;A Model-Checking Approach to Analysing Organisational Controls in a Loan Origination Process;SoD Enforcement/Models/Workflows;"@inproceedings{,
+author = {Schaad, Andreas and Lotz, Volkmar and Sohr, Karsten},
+title = {A Model-Checking Approach to Analysing Organisational Controls in a Loan Origination Process},
+year = {2006},
+isbn = {1595933530},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1133058.1133079},
+doi = {10.1145/1133058.1133079},
+booktitle = {Proceedings of the Eleventh ACM Symposium on Access Control Models and Technologies},
+pages = {139–149},
+numpages = {11},
+keywords = {model-checking, revocation, delegation, organisational control, separation},
+location = {Lake Tahoe, California, USA},
+series = {SACMAT '06}
+}"
+2006;Approvability;SoD Analyses/Workflow;"@inproceedings{,
+author = {Solworth, Jon A.},
+title = {Approvability},
+year = {2006},
+isbn = {1595932720},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1128817.1128852},
+doi = {10.1145/1128817.1128852},
+pages = {231–242},
+numpages = {12},
+keywords = {authorization, separation of duty, authorization properties},
+location = {Taipei, Taiwan},
+series = {ASIACCS '06}
+}"
+2006;Discretionary Capability Confinement;SoD Enforcement/Implementation & Software Developement;"@InProceedings{,
+author=""Fong, Philip W. L."",
+editor=""Gollmann, Dieter
+and Meier, Jan
+and Sabelfeld, Andrei"",
+title=""Discretionary Capability Confinement"",
+booktitle=""Computer Security -- ESORICS 2006"",
+year=""2006"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""127--144"",
+isbn=""978-3-540-44605-7""
+}"
+2006;Conflict Detection in Role-Based Access Control Using Multiple-Attractor Cellular Automata;SoD Enforcement/Models/RBAC;"@InProceedings{,
+author=""Jeon, Jun-Cheol
+and Yoo, Kee-Young"",
+editor=""Huang, De-Shuang
+and Li, Kang
+and Irwin, George William"",
+title=""Conflict Detection in Role-Based Access Control Using Multiple-Attractor Cellular Automata"",
+booktitle=""Intelligent Computing"",
+year=""2006"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""533--541"",
+isbn=""978-3-540-37273-8""
+}"
+2006;Conflict of Interest in the Administrative Role Graph Model;SoD Enforcement/Models/RBAC;"@InProceedings{,
+author=""Song, Yunyu
+and Osborn, Sylvia L."",
+editor=""Jonker, Willem
+and Petkovi{\'{c}}, Milan"",
+title=""Conflict of Interest in the Administrative Role Graph Model"",
+booktitle=""Secure Data Management"",
+year=""2006"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""100--114"",
+isbn=""978-3-540-38987-3""
+}"
+2006;Visual modeling and formal specification of constraints of RBAC using semantic web technology;SoD Specifications/Modelling Languages/Other;"@article{,
+title = {Visual modeling and formal specification of constraints of RBAC using semantic web technology},
+journal = {Knowledge-Based Systems},
+volume = {20},
+number = {4},
+pages = {350-356},
+year = {2006},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2006.08.002},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705106001511},
+author = {JuHum Kwon and Chang-Joo Moon},
+keywords = {RBAC, OWL, Visual modeling, Description logics, Semantic web technology}
+}"
+2007;Multi-session Separation of Duties (MSoD) for RBAC;SoD Enforcement/Specific Context;"@INPROCEEDINGS{,
+  author={Chadwick, David W and Xu, Wensheng and Otenko, Sassa and Laborde, Romain and Nasser, Bassem},
+  booktitle={2007 IEEE 23rd International Conference on Data Engineering Workshop}, 
+  title={Multi-session Separation of Duties (MSoD) for RBAC}, 
+  year={2007},
+  volume={},
+  number={},
+  pages={744-753},
+  doi={10.1109/ICDEW.2007.4401062}}"
+2007;Separation of Duty in Role-Based Access Control Model through Fuzzy Relations;SoD Specifications/Models/Other;"@INPROCEEDINGS{,
+    author={Takabi, Hassan and Amini, Morteza and Jalili, Rasool},
+    booktitle={Third International Symposium on Information Assurance and Security}, 
+    title={Separation of Duty in Role-Based Access Control Model through Fuzzy Relations}, 
+    year={2007},
+    volume={},
+    number={},
+    pages={125-130},
+    doi={10.1109/IAS.2007.68}
+  }"
+2007;On Mutually Exclusive Roles and Separation-of-Duty;SoD Analyses/SoD Generation & Transformation;"@article{,
+author = {Li, Ninghui and Tripunitara, Mahesh V. and Bizri, Ziad},
+title = {On Mutually Exclusive Roles and Separation-of-Duty},
+year = {2007},
+issue_date = {May 2007},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {10},
+number = {2},
+issn = {1094-9224},
+url = {https://doi.org/10.1145/1237500.1237501},
+doi = {10.1145/1237500.1237501},
+month = {may},
+pages = {5–es},
+numpages = {36},
+keywords = {separation-of-duty, Role-based access control, constraints, verification, computational complexity}
+}"
+2007;Validating the enforcement of access control policies and separation of duty principle in requirement engineering;SoD Enforcement/Implementation & Software Developement;"@article{,
+title = {Validating the enforcement of access control policies and separation of duty principle in requirement engineering},
+journal = {Information and Software Technology},
+volume = {49},
+number = {2},
+pages = {142-157},
+year = {2007},
+issn = {0950-5849},
+doi = {https://doi.org/10.1016/j.infsof.2006.03.009},
+url = {https://www.sciencedirect.com/science/article/pii/S0950584906000450},
+author = {Khaled Alghathbar},
+keywords = {Access control policies, Security engineering, Use cases, Semi-formal methods, Separation of duty},
+}"
+2007;Deriving XACML Policies from Business Process Models;SoD Specification/Modelling Languages/BPMN;"@InProceedings{,
+author=""Wolter, Christian
+and Schaad, Andreas
+and Meinel, Christoph"",
+editor=""Weske, Mathias
+and Hacid, Mohand-Sa{\""i}d
+and Godart, Claude"",
+title=""Deriving XACML Policies from Business Process Models"",
+booktitle=""Web Information Systems Engineering -- WISE 2007 Workshops"",
+year=""2007"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""142--153"",
+isbn=""978-3-540-77010-7""
+}"
+2007;Modeling of Task-Based Authorization Constraints in BPMN;SoD Specification/Modelling Languages/BPMN;"@InProceedings{,
+author=""Wolter, Christian
+and Schaad, Andreas"",
+editor=""Alonso, Gustavo
+and Dadam, Peter
+and Rosemann, Michael"",
+title=""Modeling of Task-Based Authorization Constraints in BPMN"",
+booktitle=""Business Process Management"",
+year=""2007"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""64--79"",
+isbn=""978-3-540-75183-0""
+}"
+2008;Enforcement of Spatial Separation of Duty Constraint;SoD Enforcement/Specific Context;"@INPROCEEDINGS{,
+  author={Chen, Weihe and Tang, Zhu and Ju, Shiguang},
+  booktitle={2008 The 9th International Conference for Young Computer Scientists}, 
+  title={Enforcement of Spatial Separation of Duty Constraint}, 
+  year={2008},
+  volume={},
+  number={},
+  pages={2108-2114},
+  doi={10.1109/ICYCS.2008.223}}"
+2008;Enforcing Separation of Duty in Ad Hoc Collaboration;SoD Enforcement/Specific Context;"@INPROCEEDINGS{,
+  author={Deng, Lingli and He, Yeping and Xu, Ziyao},
+  booktitle={2008 The 9th International Conference for Young Computer Scientists}, 
+  title={Enforcing Separation of Duty in Ad Hoc Collaboration}, 
+  year={2008},
+  volume={},
+  number={},
+  pages={1545-1552},
+  doi={10.1109/ICYCS.2008.131}}"
+2008;Security Analysis of Role-based Separation of Duty with Workflows;SoD Analyses/SoD Generation & Transformation;"@INPROCEEDINGS{,
+author = {P. Kijsanayothin and R. Hewett and A. Thipse},
+booktitle = {2008 3rd International Conference on Availability, Reliability and Security (ARES &#x27;08)},
+title = {Security Analysis of Role-based Separation of Duty with Workflows},
+year = {2008},
+volume = {},
+issn = {},
+pages = {765-770},
+doi = {10.1109/ARES.2008.71},
+url = {https://doi.ieeecomputersociety.org/10.1109/ARES.2008.71},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {mar}
+}"
+2008;Authorization constraint enforcement for information system security;SoD Analyses/Workflow;"@INPROCEEDINGS{,
+  author={Hewett, Rattikorn and Kijsanayothin, Phongphun},
+  booktitle={2008 IEEE International Conference on Systems, Man and Cybernetics}, 
+  title={Authorization constraint enforcement for information system security}, 
+  year={2008},
+  volume={},
+  number={},
+  pages={3502-3507},
+  doi={10.1109/ICSMC.2008.4811840}}"
+2008;Enforcing Role-Based Access Control Policies in Web Services with UML and OCL;SoD Enforcement/Specific Context;"@INPROCEEDINGS{,
+  author={Sohr, Karsten and Mustafa, Tanveer and Bao, Xinyu and Ahn, Gail-Joon},
+  booktitle={2008 Annual Computer Security Applications Conference (ACSAC)}, 
+  title={Enforcing Role-Based Access Control Policies in Web Services with UML and OCL}, 
+  year={2008},
+  volume={},
+  number={},
+  pages={257-266},
+  doi={10.1109/ACSAC.2008.35}}"
+2008;Verification of Dynamic Separation of Duty Policy for Role-based Business Processes;SoD Analyses/Workflow;"@INPROCEEDINGS{,
+  author={Thipse, Aashay and Hewett, Rattikorn},
+  booktitle={2008 IEEE Region 5 Conference}, 
+  title={Verification of Dynamic Separation of Duty Policy for Role-based Business Processes}, 
+  year={2008},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/TPSD.2008.4562752}}"
+2008;Beyond Separation of Duty: An Algebra for Specifying High-Level Security Policies;SoD Specifications/Models/Other;"@article{,
+    author = {Li, Ninghui and Wang, Qihua},
+    title = {Beyond Separation of Duty: An Algebra for Specifying High-Level Security Policies},
+    year = {2008},
+    issue_date = {July 2008},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {55},
+    number = {3},
+    issn = {0004-5411},
+    url = {https://doi.org/10.1145/1379759.1379760},
+    doi = {10.1145/1379759.1379760},
+    journal = {J. ACM},
+    month = {aug},
+    articleno = {12},
+    numpages = {46},
+    keywords = {policy design, Access control, separation of duty}
+}"
+2008;X-raying Segregation of Duties: Support to illuminate an enterprise's immunity to solo-fraud;High-level SoD & Management;"@article{,
+title = {X-raying Segregation of Duties: Support to illuminate an enterprise's immunity to solo-fraud},
+journal = {International Journal of Accounting Information Systems},
+volume = {9},
+number = {2},
+pages = {82-93},
+year = {2008},
+note = {2007 Research Symposium on Information Systems Assurance},
+issn = {1467-0895},
+doi = {https://doi.org/10.1016/j.accinf.2007.10.005},
+author = {Ph.I. Elsas},
+}"
+2008;Specifying Separation of Duty Constraints in BPEL4People Processes;SoD Specifications/Models/Workflows;"@InProceedings{,
+    author=""Mendling, Jan
+    and Ploesser, Karsten
+    and Strembeck, Mark"",
+    editor=""Abramowicz, Witold
+    and Fensel, Dieter"",
+    title=""Specifying Separation of Duty Constraints in BPEL4People Processes"",
+    booktitle=""Business Information Systems"",
+    year=""2008"",
+    publisher=""Springer Berlin Heidelberg"",
+    address=""Berlin, Heidelberg"",
+    pages=""273--284"",
+    isbn=""978-3-540-79396-0""
+}"
+2009;Continuous compliance monitoring in ERP systems-A method for identifying segregation of duties conflicts;High-level SoD & Management;"@article{,
+  title={Continuous compliance monitoring in ERP systems-A method for identifying segregation of duties conflicts},
+  author={Wolf, Patrick and Gehrke, Nick},
+  year={2009},
+  journal = {Wirtschaftsinformatik Proceedings 2009},
+  volume = {39}
+}"
+2009;Specification and Enforcement of Static Separation-of-Duty Policies in Usage Control;SoD Specifications/Models/Other;"@InProceedings{,
+author=""Lu, Jianfeng
+and Li, Ruixuan
+and Lu, Zhengding
+and Hu, Jinwei
+and Ma, Xiaopu"",
+editor=""Samarati, Pierangela
+and Yung, Moti
+and Martinelli, Fabio
+and Ardagna, Claudio A."",
+title=""Specification and Enforcement of Static Separation-of-Duty Policies in Usage Control"",
+booktitle=""Information Security"",
+year=""2009"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""403--410"",
+isbn=""978-3-642-04474-8""
+}"
+2009;From Formal Access Control Policies to Runtime Enforcement Aspects;SoD Specification/Models/RBAC;"@InProceedings{,
+    author=""Kallel, Slim
+    and Charfi, Anis
+    and Mezini, Mira
+    and Jmaiel, Mohamed
+    and Klose, Karl"",
+    editor=""Massacci, Fabio
+    and Redwine, Samuel T.
+    and Zannone, Nicola"",
+    title=""From Formal Access Control Policies to Runtime Enforcement Aspects"",
+    booktitle=""Engineering Secure Software and Systems"",
+    year=""2009"",
+    publisher=""Springer Berlin Heidelberg"",
+    address=""Berlin, Heidelberg"",
+    pages=""16--31"",
+    isbn=""978-3-642-00199-4""
+}"
+2010;Translating High-Level Authorization Constraints to XACML;SoD Analyses/SoD Generation & Transformation;"@INPROCEEDINGS{,
+  author={Alm, Christopher and Illig, Roland},
+  booktitle={2010 6th World Congress on Services}, 
+  title={Translating High-Level Authorization Constraints to XACML}, 
+  year={2010},
+  volume={},
+  number={},
+  pages={629-636},
+  doi={10.1109/SERVICES.2010.62}}"
+2010;Generic Algorithms for Consistency Checking of Mutual-Exclusion and Binding Constraints in a Business Process Context;SoD Analyses/Algorithms concerning MER;"@InProceedings{,
+author=""Strembeck, Mark
+and Mendling, Jan"",
+editor=""Meersman, Robert
+and Dillon, Tharam
+and Herrero, Pilar"",
+title=""Generic Algorithms for Consistency Checking of Mutual-Exclusion and Binding Constraints in a Business Process Context"",
+booktitle=""On the Move to Meaningful Internet Systems: OTM 2010"",
+year=""2010"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""204--221"",
+}"
+2011;Reliability of separation of duty in ANSI standard role-based access control;SoD Enforcement/Models/RBAC;"@article{,
+title = {Reliability of separation of duty in ANSI standard role-based access control},
+journal = {Scientia Iranica},
+volume = {18},
+number = {6},
+pages = {1416-1424},
+year = {2011},
+issn = {1026-3098},
+doi = {https://doi.org/10.1016/j.scient.2011.08.016},
+url = {https://www.sciencedirect.com/science/article/pii/S1026309811001660},
+author = {M. Esna-Ashari and H.R. Rabiee and S.H. Mirian-Hosseinabadi},
+keywords = {Role-based access control, Separation of duty, Constraints, ANSI RBAC, Standard, Security, Reliability},
+}"
+2011;Detecting and Resolving Conflicts of Mutual-Exclusion and Binding Constraints in a Business Process Context;SoD Analyses/Algorithms concerning MER;"@InProceedings{,
+author=""Schefer, Sigrid
+and Strembeck, Mark
+and Mendling, Jan
+and Baumgrass, Anne"",
+editor=""Meersman, Robert
+and Dillon, Tharam
+and Herrero, Pilar
+and Kumar, Akhil
+and Reichert, Manfred
+and Qing, Li
+and Ooi, Beng-Chin
+and Damiani, Ernesto
+and Schmidt, Douglas C.
+and White, Jules
+and Hauswirth, Manfred
+and Hitzler, Pascal
+and Mohania, Mukesh"",
+title=""Detecting and Resolving Conflicts of Mutual-Exclusion and Binding Constraints in a Business Process Context"",
+booktitle=""On the Move to Meaningful Internet Systems: OTM 2011"",
+year=""2011"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""329--346"",
+}"
+2011;A Maturity Model for Segregation of Duties in Standard Business Software;High-level SoD & Management;"@InProceedings{,
+author=""Omland, Jan
+and Gehrke, Nick
+and M{\""u}ller-Wickop, Niels"",
+editor=""N{\""u}ttgens, Markus
+and Gadatsch, Andreas
+and Kautz, Karlheinz
+and Schirmer, Ingrid
+and Blinn, Nadine"",
+title=""A Maturity Model for Segregation of Duties in Standard Business Software"",
+booktitle=""Governance and Sustainability in Information Systems. Managing the Transfer and Diffusion of IT"",
+year=""2011"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""288--294"",
+}"
+2011;An Optimization Model for the Extended Role Mining Problem;SoD Analyses/Role Mining;"@InProceedings{,
+author=""Uzun, Emre
+and Atluri, Vijayalakshmi
+and Lu, Haibing
+and Vaidya, Jaideep"",
+editor=""Li, Yingjiu"",
+title=""An Optimization Model for the Extended Role Mining Problem"",
+booktitle=""Data and Applications Security and Privacy XXV"",
+year=""2011"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""76--89"",
+}"
+2011;Analyzing Separation of Duties Constraints with a Probabilistic Model Checker;SoD Enforcement/Models/Workflows;"@InProceedings{,
+author=""Mendt, Tamara
+and Sinz, Carsten
+and Tveretina, Olga"",
+editor=""Abramowicz, Witold
+and Maciaszek, Leszek
+and W{\k{e}}cel, Krzysztof"",
+title=""Analyzing Separation of Duties Constraints with a Probabilistic Model Checker"",
+booktitle=""Business Information Systems Workshops"",
+year=""2011"",
+publisher=""Springer Berlin Heidelberg"",
+address=""Berlin, Heidelberg"",
+pages=""18--29"",
+isbn=""978-3-642-25370-6""
+}"
+2012;Dynamic Enforcement of Abstract Separation of Duty Constraints;SoD Enforcement/Models/Workflows;"@article{,
+author = {Basin, David and Burri, Samuel J. and Karjoth, G\""{u}nter},
+title = {Dynamic Enforcement of Abstract Separation of Duty Constraints},
+year = {2012},
+issue_date = {November 2012},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {15},
+number = {3},
+issn = {1094-9224},
+url = {https://doi.org/10.1145/2382448.2382451},
+doi = {10.1145/2382448.2382451},
+month = {nov},
+articleno = {13},
+numpages = {30},
+}"
+2012;Constraint-Aware Role Mining via Extended Boolean Matrix Decomposition;SoD Analyses/Role Mining;"@ARTICLE{,
+  author={Lu, Haibing and Vaidya, Jaideep and Atluri, Vijayalakshmi and Hong, Yuan},
+  journal={IEEE Transactions on Dependable and Secure Computing}, 
+  title={Constraint-Aware Role Mining via Extended Boolean Matrix Decomposition}, 
+  year={2012},
+  volume={9},
+  number={5},
+  pages={655-669},
+  doi={10.1109/TDSC.2012.21}}"
+2012;Minimum user requirement in Role Based Access Control with Separation of Duty constraints;SoD Analyses/Algorithms concerning MER;"@INPROCEEDINGS{,
+  author={Roy, Arindam and Sural, Shamik and Majumdar, Arun Kumar},
+  booktitle={2012 12th International Conference on Intelligent Systems Design and Applications (ISDA)}, 
+  title={Minimum user requirement in Role Based Access Control with Separation of Duty constraints}, 
+  year={2012},
+  volume={},
+  number={},
+  pages={386-391},
+  doi={10.1109/ISDA.2012.6416569}}"
+2013;A provenance-based access control model for dynamic separation of duties;SoD Specifications/Models/Other;"@INPROCEEDINGS{,
+  author={Nguyen, Dang and Park, Jaehong and Sandhu, Ravi},
+  booktitle={2013 Eleventh Annual Conference on Privacy, Security and Trust}, 
+  title={A provenance-based access control model for dynamic separation of duties}, 
+  year={2013},
+  volume={},
+  number={},
+  pages={247-256},
+  doi={10.1109/PST.2013.6596060}}"
+2013;Constraints specication in attribute based access control;SoD Specifications/Models/ABAC;"@article{,
+author = {Bijon, Khalid and Krishman, R. and Sandhu, R.},
+year = {2013},
+month = {01},
+pages = {131-144},
+title = {Constraints specication in attribute based access control},
+volume = {2},
+journal = {SCIENCE}
+}"
+2014;Permission based SoD Enforcement/Implementation & Software Developement of Dynamic Separation of Duty (DSD) in Role based Access Control (RBAC);SoD Specification/Models/RBAC;"@INPROCEEDINGS{,
+  author={Habib, Muhammad Asif and Mahmood, Nasir and Shahid, Muhammad and Aftab, Muhammad Umar and Ahmad, Uzair and Nadeem Faisal, C. Muhammad},
+  booktitle={2014 8th International Conference on Signal Processing and Communication Systems (ICSPCS)}, 
+  title={Permission based SoD Enforcement/Implementation & Software Developement of Dynamic Separation of Duty (DSD) in Role based Access Control (RBAC)}, 
+  year={2014},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/ICSPCS.2014.7021054}
+  }"
+2014;A conceptual model for segregation of duties: Integrating theory and practice for manual and IT-supported processes;High-level SoD & Management;"@article{,
+title = {A conceptual model for segregation of duties: Integrating theory and practice for manual and IT-supported processes},
+journal = {International Journal of Accounting Information Systems},
+volume = {15},
+number = {4},
+pages = {304-322},
+year = {2014},
+note = {2013 Research Symposium on Information Integrity & Information Systems Assurance},
+issn = {1467-0895},
+doi = {https://doi.org/10.1016/j.accinf.2014.05.003},
+url = {https://www.sciencedirect.com/science/article/pii/S1467089514000293},
+author = {Kevin {W. Kobelsky}},
+keywords = {Segregation of duties, Internal control, Information security},
+}"
+2014;Ensuring regulatory compliance in banking and finance through effective controls: The principle of duality in the segregation of duties;High-level SoD & Management;"@article{,
+author = {Engdahl, Oskar},
+title = {Ensuring regulatory compliance in banking and finance through effective controls: The principle of duality in the segregation of duties},
+journal = {Regulation \& Governance},
+volume = {8},
+number = {3},
+pages = {332-349},
+keywords = {crime prevention, internal control, regulatory compliance, segregation of duties, white-collar crime},
+doi = {https://doi.org/10.1111/rego.12027},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/rego.12027},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/rego.12027},
+year = {2014}
+}"
+2015;E-GRANT: Enforcing Encrypted Dynamic Security Constraints in the Cloud;SoD Enforcement/Databases;"@INPROCEEDINGS{,
+  author={Asghar, Muhammad Rizwan and Russello, Giovanni and Crispo, Bruno},
+  booktitle={2015 3rd International Conference on Future Internet of Things and Cloud}, 
+  title={E-GRANT: Enforcing Encrypted Dynamic Security Constraints in the Cloud}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={135-144},
+  doi={10.1109/FiCloud.2015.43}}"
+2015;A Novel Permission Hierarchy for RBAC for Dealing with SoD in MAC Models;SoD Specifications/Models/Other;"@article{,
+    author = {Veloudis, Simeon and Nissanke, Nimal},
+    title = ""{A Novel Permission Hierarchy for RBAC for Dealing with SoD in MAC Models}"",
+    journal = {The Computer Journal},
+    volume = {59},
+    number = {4},
+    pages = {462-492},
+    year = {2015},
+    month = {08},
+    issn = {0010-4620},
+    doi = {10.1093/comjnl/bxv060},
+    url = {https://doi.org/10.1093/comjnl/bxv060},
+    eprint = {https://academic.oup.com/comjnl/article-pdf/59/4/462/7902571/bxv060.pdf},
+}"
+2015;Enforcing Separation of Duty in Attribute Based Access Control Systems;SoD Enforcement/Models/ABAC;"@InProceedings{Jha15,
+author=""Jha, Sadhana
+and Sural, Shamik
+and Atluri, Vijayalakshmi
+and Vaidya, Jaideep"",
+editor=""Jajoda, Sushil
+and Mazumdar, Chandan"",
+title=""Enforcing Separation of Duty in Attribute Based Access Control Systems "",
+booktitle=""Information Systems Security"",
+year=""2015"",
+publisher=""Springer International Publishing"",
+pages=""61--78"",
+}"
+2015;Role Mining in the Presence of Separation of Duty Constraints;SoD Analyses/Role Mining;"@InProceedings{sarana2015,
+author=""Sarana, Prasuna
+and Roy, Arindam
+and Sural, Shamik
+and Vaidya, Jaideep
+and Atluri, Vijayalakshmi"",
+editor=""Jajoda, Sushil
+and Mazumdar, Chandan"",
+title=""Role Mining in the Presence of Separation of Duty Constraints"",
+booktitle=""Information Systems Security"",
+year=""2015"",
+publisher=""Springer International Publishing"",
+address=""Cham"",
+pages=""98--117"",
+isbn=""978-3-319-26961-0""
+}"
+2016;On Optimal Employee Assignment in Constrained Role-Based Access Control Systems;SoD Analyses/Algorithms concerning MER;"@article{,
+author = {Roy, Arindam and Sural, Shamik and Majumdar, Arun Kumar and Vaidya, Jaideep and Atluri, Vijayalakshmi},
+title = {On Optimal Employee Assignment in Constrained Role-Based Access Control Systems},
+year = {2016},
+issue_date = {January 2017},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+number = {4},
+issn = {2158-656X},
+url = {https://doi.org/10.1145/2996470},
+doi = {10.1145/2996470},
+journal = {ACM Trans. Manage. Inf. Syst.},
+month = {dec},
+articleno = {10},
+numpages = {24},
+
+}"
+2017;Evaluating ISO 14441 privacy requirements on role based access control (RBAC) restrict mode via Colored Petri Nets (CPN) modeling;SoD Specification/Models/Petri nets;"@INPROCEEDINGS{,
+  author={de Carvalho, Marcelo Antonio and Bandiera-Paiva, Paulo},
+  booktitle={2017 International Carnahan Conference on Security Technology (ICCST)}, 
+  title={Evaluating ISO 14441 privacy requirements on role based access control (RBAC) restrict mode via Colored Petri Nets (CPN) modeling}, 
+  year={2017},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/CCST.2017.8167833}}"
+2017;Privacy-Preserving Detection of Statically Mutually Exclusive Roles Constraints Violation in Interoperable Role-Based Access Control;SoD Enforcement/Models/RBAC;"@INPROCEEDINGS{,
+  author={Liu, Meng and Zhang, Xuyun and Yang, Chi and Pang, Shaoning and Puthal, Deepak and Ren, Kaijun},
+  booktitle={2017 IEEE Trustcom/BigDataSE/ICESS}, 
+  title={Privacy-Preserving Detection of Statically Mutually Exclusive Roles Constraints Violation in Interoperable Role-Based Access Control}, 
+  year={2017},
+  volume={},
+  number={},
+  pages={502-509},
+  doi={10.1109/Trustcom/BigDataSE/ICESS.2017.277}}"
+2017;A simple model of separation of duty for access control models;SoD Specifications/Models/Other;"@article{,
+title = {A simple model of separation of duty for access control models},
+journal = {Computers & Security},
+volume = {68},
+pages = {69-80},
+year = {2017},
+issn = {0167-4048},
+doi = {https://doi.org/10.1016/j.cose.2017.03.012},
+url = {https://www.sciencedirect.com/science/article/pii/S0167404817300652},
+author = {J.D. Ultra and S. Pancho-Festin},
+keywords = {Access control model, Separation of duty, Role-based access control, Formal model, Z specification language},
+}"
+2018;Specification and Verification of Separation of Duty Constraints in Attribute-Based Access Control;SoD Enforcement/Models/ABAC;"@ARTICLE{,
+  author={Jha, Sadhana and Sural, Shamik and Atluri, Vijayalakshmi and Vaidya, Jaideep},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Specification and Verification of Separation of Duty Constraints in Attribute-Based Access Control}, 
+  year={2018},
+  volume={13},
+  number={4},
+  pages={897-911},
+  doi={10.1109/TIFS.2017.2771492}}"
+2020;A Constraint and Risk-aware Approach to Attribute-based Access Control for Cyber-Physical Systems;SoD Specifications/Models/ABAC;"@article{,
+author = {Baltaci, Nuray and Joshi, James},
+year = {2020},
+month = {05},
+pages = {101802},
+title = {A Constraint and Risk-aware Approach to Attribute-based Access Control for Cyber-Physical Systems},
+volume = {96},
+journal = {Computers & Security},
+doi = {10.1016/j.cose.2020.101802}
+}"
+2020;Privacy-preserving matrix product based static mutual exclusive roles constraints violation detection in interoperable role-based access control;SoD Enforcement/Models/RBAC;"@article{,
+title = {Privacy-preserving matrix product based static mutual exclusive roles constraints violation detection in interoperable role-based access control},
+journal = {Future Generation Computer Systems},
+volume = {109},
+pages = {457-468},
+year = {2020},
+issn = {0167-739X},
+doi = {https://doi.org/10.1016/j.future.2018.10.017},
+author = {Meng Liu and Yun Luo and Chi Yang and Shaoning Pang and Deepak Puthal and Kaijun Ren and Xuyun Zhang},
+keywords = {Privacy-preserving, Secure multi-party computation, Matrix product, Homomorphic cryptosystem, Statically mutually exclusive roles},
+
+}"
+2021;Enabling Workforce Optimization in Constrained Attribute-Based Access Control Systems;SoD Analyses/Algorithms concerning MER;"@ARTICLE{,
+  author={Roy, Arindam and Sural, Shamik and Majumdar, Arun Kumar and Vaidya, Jaideep and Atluri, Vijayalakshmi},
+  journal={IEEE Transactions on Emerging Topics in Computing}, 
+  title={Enabling Workforce Optimization in Constrained Attribute-Based Access Control Systems}, 
+  year={2021},
+  volume={9},
+  number={4},
+  pages={1901-1913},
+  doi={10.1109/TETC.2019.2944787}}"
+2021;Secure Conflicts Avoidance in Multidomain Environments: A Distributed Approach;SoD Enforcement/Specific Context;"@ARTICLE{,
+  author={Yang, Benyuan and Hu, Hesuan},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Secure Conflicts Avoidance in Multidomain Environments: A Distributed Approach}, 
+  year={2021},
+  volume={51},
+  number={9},
+  pages={5478-5489},
+  doi={10.1109/TSMC.2019.2954589}}"
+2022;Dynamic SoD Enforcement/Implementation & Software Developement of Security Requirements in Business Processes;SoD Specification/Models/Petri nets;"@ARTICLE{,
+  author={Yang, Benyuan and Hu, Hesuan},
+  journal={IEEE Transactions on Dependable and Secure Computing}, 
+  title={Dynamic SoD Enforcement/Implementation & Software Developement of Security Requirements in Business Processes}, 
+  year={2022},
+  volume={19},
+  number={2},
+  pages={1352-1363},
+  doi={10.1109/TDSC.2020.3012729}}"
+2022;Segregation of Duties in Business Architecture Models;High-level SoD & Management;"@InProceedings{,
+author=""Pa{\'{n}}kowska, Ma{\l}gorzata"",
+editor=""Chugunov, Andrei V.
+and Janssen, Marijn
+and Khodachek, Igor
+and Misnikov, Yuri
+and Trutnev, Dmitrii"",
+title=""Segregation of Duties in Business Architecture Models"",
+booktitle=""Electronic Governance and Open Society: Challenges in Eurasia"",
+year=""2022"",
+publisher=""Springer International Publishing"",
+pages=""35--49"",
+}"
+2023;Analysis of Authorization Constraints via Integer Linear Programming;SoD Specification/Models/Petri nets;"@ARTICLE{,
+  author={Yang, Benyuan and Hu, Hesuan},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Analysis of Authorization Constraints via Integer Linear Programming}, 
+  year={2023},
+  volume={35},
+  number={3},
+  pages={2258-2271},
+  doi={10.1109/TKDE.2021.3124271}}"
