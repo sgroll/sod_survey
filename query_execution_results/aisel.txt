@@ -1,0 +1,1772 @@
+%T Designing Secure Business Processes Through Secure Activity Resource Coordination (SARC)
+%0 Journal Article
+%A Iyer, Lakshmi
+%A Singh, Rahul
+%A DAubeterre, Fergle
+%B ICIS 2007 Proceedings
+%D 2007
+%8 December 31, 2007
+%U https://aisel.aisnet.org/icis2007/57
+
+
+%T DISCOURSE ON POWER RELATIONS AND ITS IMPACT ON ERP SYSTEMS SECURITY
+%0 Journal Article
+%A Ngozwana, Khanyisa
+%A Njenga, Kennedy
+%B MCIS 2011 Proceedings
+%D 2011
+%8 January  1, 2011
+%U https://aisel.aisnet.org/mcis2011/110
+%X This article conceptualises the effects of power relations wielded by project members and stakeholders during Enterprise Resource Planning (ERP) implementation and the impact this has towards ERP system security. Social Exchange Theory (SET) is applied as a lens towards this conceptulaisation. SET is premised on the notion that there is a reward exchange between actors, the main purpose being to maximise benefits and minimise costs. The study looks at SET’s three independent constructs: exchange relation, dependency, and power in relation to ERP system security. Pertinent discourse dwells on power and exchange relations that occur during ERP implementation and how these relations influence ERP systems security generally. The research uses a qualitative approach. Hermeneutical exegesis is used qualitatively towards understanding power, dependency and exchange relation, and how these manifest during ERP implementation on a selected case. Exegesis techniques used include textual criticism and reduction criticism. The contribution of the article is twofold: the article provides for understanding ERP systems security through a developed framework; the article also shows how hermeneutics could be applied in the discipline. Tentative findings reveal for the selected case, that middle level management had applied coercive power to garner support of fellow project members when they felt ERP implementation would threaten specific status quo. For this case, coercive power seemed to have stood out much more (relative to other power typologies) and tended to erode certain controls (segregation of duties) envisaged for a secure ERP system.
+
+
+%T Enhancing ERP Learning Outcomes through Microsoft Dynamics
+%0 Journal Article
+%A Zadeh, Amir H.
+%A Zolbanin, Hamed M.
+%A Sengupta, Arjit
+%A Schultz, Todd
+%B Journal of Information Systems Education
+%D 2020
+%8 January  1, 2020
+%V 31
+%N 2
+%P 83-95
+%U https://aisel.aisnet.org/jise/vol31/iss2/1
+%X Enterprise resource planning systems (ERP) are the most essential and critical information systems that are widely used to build all the functions of a business into a unified and efficient enterprise system. Although the essence of ERP systems are easy to understand, students, especially those who do not have technical experience, have difficulty appreciating how different components of these systems interrelate and work together to improve the efficiency and effectiveness of business processes. This paper illustrates how an MIS course that incorporates Microsoft Dynamics ERP into the curriculum is designed. We demonstrate how technical aspects of ERP systems can be incorporated into ERP courses to help business students recognize the importance of technical knowledge in today’s marketplace and develop technical skills in their learning process. We focus on Microsoft Dynamics AX as a unified ERP system along with its associated products and technologies (i.e., SQL, Power BI, Visual Studio, etc.) to ensure the highest level of competency. Examples of the course description, hands-on labs, exercises, and resources are provided. Results of student assessments are included, which support that hands-on learning on Microsoft Dynamics AX ERP system can lead to improved learning outcomes, both functionally and technically.
+
+
+%T A Semantic Approach to Secure Collaborative Inter-Organizational eBusiness Processes (SSCIOBP)
+%0 Journal Article
+%A Iyer, Lakshmi
+%A Aubeterre, Fergle D¡¯
+%A Singh, Rahul
+%B Journal of the Association for Information Systems
+%D 2008
+%8 April  1, 2008
+%V 9
+%N 3
+%U https://aisel.aisnet.org/jais/vol9/iss3/6
+%X The information supply chain (ISC) involves the exchange, organization, selection, and synthesis of relevant knowledge and information about production, purchase planning, demand forecasting, and inventory among collaborating business partners in a value chain. Information and knowledge sharing in an ISC occurs in a business process context. Seamless knowledge exchange within and across organizations involved in secure business processes is critically needed to " secure and cultivate the information supply chain." Extant literature does not explicitly consider or systematically represent component knowledge, process knowledge and security knowledge for business processes within and across organizations. As a result, organizations engaged in collaborative inter-organizational processes continue to be plagued with issues such as semantic conflict issues, lack of integration of heterogeneous systems, and lack of security knowledge regarding authorized access to resources. Without appropriate security controls, manual interventions lead to unauthorized access to resources. These problems motivate our Semantic Approach to Secure Collaborative Inter-Organizational eBusiness Processes (SSCIOBP). We follow a design science paradigm to identify meta-requirements of SSCIOBP and develop the design artifact. SSCIOBP is evaluated using observational and descriptive evaluation methods following Hevner et al. (2004). We apply our approach to show how the Collaborative Planning Forecasting and Replenishment (CPFR) industry standard models can be enhanced using the proposed design artifact. We apply SSCIOBP to a case study to illustrate its applicability in mapping core business processes of organizations to solve semantic inter-operability issues and systematically incorporate component, process and security knowledge in the design of secure business processes across the information supply chain.
+
+
+%T Combating IS Fraud:  A Teaching Case Study
+%0 Journal Article
+%A Lincke, Susan
+%A Green, David
+%B AMCIS 2012 Proceedings
+%D 2012
+%8 July 29, 2012
+%U https://aisel.aisnet.org/amcis2012/proceedings/ISEducation/2
+%X People are becoming more creative in use of classic fraud schemes via information systems. This paper presents a case study resource for teaching information security controls to help combat information systems fraud. The Health First Case Study is designed to give undergraduate computer science, information systems, and information technology students an opportunity to plan security for a doctor’s office, with the guidance of another useful resource, the Small Business Security Workbook. The case study addresses social engineering, ethics, requirements documentation, security design, incident response, and personnel security. Course implementation examples are included for both face-to-face and online courses.
+
+
+%T Spreadsheets and Sarbanes-Oxley: Regulations, Risks, and Control Frameworks
+%0 Journal Article
+%A Panko, Raymond R.
+%B Communications of the Association for Information Systems
+%D 2006
+%8 May 22, 2006
+%V 17
+%N 1
+%U https://aisel.aisnet.org/cais/vol17/iss1/29
+%X The Sarbanes-Oxley Act of 2002 (SOX) forced corporations to examine their spreadsheet use in financial reporting. Corporations do not like what they are seeing. Surveys conducted in response to SOX show that spreadsheets are used widely in corporate financial reporting. Spreadsheet error research, in turn, shows that nearly all large spreadsheets contain multiple errors and that errors of material size are quite common. The first round of Sarbanes-Oxley assessments confirmed concerns about spreadsheet accuracy. Another concern is spreadsheet fraud, which also exists in practice and is easy to perpetrate. Unfortunately, few organizations maintain effective controls to deal with either errors or fraud. This paper examines spreadsheet risks for Sarbanes-Oxley (and other regulations) and discusses how general and IT-specific control frameworks can be used to address the control risks created by spreadsheets.
+
+
+%T Beyond Regulatory Compliance for Spreadsheet Controls: A Tutorial to Assist Practitioners and a Call for Research
+%0 Journal Article
+%A Leon, Linda A.
+%A Abraham, Dolphy M.
+%A Kalbers, Lawrence
+%B Communications of the Association for Information Systems
+%D 2010
+%8 October  1, 2010
+%V 27
+%N 1
+%U https://aisel.aisnet.org/cais/vol27/iss1/28
+%X In the past decade, accounting scandals and financial reporting errors have led to heightened awareness of the need for IT controls and legislation of control regimes. In the United States, the Sarbanes–Oxley Act of 2002 (SOX) was one of the early initiatives to legislate internal controls over financial reporting. Many countries and regions have followed with similar legislation. In this tutorial we present an analysis of the prior work on error prevention and detection in spreadsheets as it relates to SOX and IT governance frameworks, more generally. SOX requires publicly traded companies to address the problem of spreadsheet management and to assume some accountability for generating accurate information from spreadsheets for financial reporting. We attempt to reconcile requirements for SOX with IT spreadsheet research. Gaps in design and implementation of spreadsheet controls are identified.  From our review of prior work on spreadsheets, we offer a series of options for controlling the spreadsheet development process. Finally, we provide suggestions to help IT practitioners in organizations look beyond SOX regulations at governance of end-user developed content.
+
+
+%T Transformational Leadership for IT Implementations and Internal Control
+%0 Journal Article
+%A Colvin, Randy G.
+%B SAIS 2014 Proceedings
+%D 2014
+%8 April 14, 2014
+%U https://aisel.aisnet.org/sais2014/4
+%X ABSTRACT Many have heard “set a good example” and “lead by example”. These common phrases in a simple way provide valuable incremental insight for understanding success of enterprise system implementations, and the impact on end-users performing internal control activities. Internal control activities represent the policies and procedures of management in performing business requirements. Within enterprise systems, accounting type transactions are critical since they receive a host of interfaces from upstream modules and pass transactions to a wide range of downstream tables and modules. Activities in this type of setting carry the utmost importance and as discussed should be properly exemplified. However, following too many implementations, internal controls suffer. This study presents a conceptual approach for assessing the unique and positive influence of transformational leadership on the success of IT implementations and resulting internal control activities.
+
+
+%T Contrasting Information Systems and Financial Executive Perspective on Implementing Regulatory Controls
+%0 Journal Article
+%A Maheshwari, Bharat
+%A Pollanen, Raili
+%A Kumar, Vinod
+%B AMCIS 2009 Proceedings
+%D 2009
+%8 January  1, 2009
+%U https://aisel.aisnet.org/amcis2009/401
+%X New corporate compliance regulations such as the Sarbanes Oxley (SOX) Act of 2002 contain requirements for the chief executive and financial officers to certify the effectiveness of internal controls and processes leading to financial reporting. An inevitable result of implementing compliance with these regulations is an increased focus on improving systems and greater interdependence between the financial and IS functions. In this paper, we analyse the data collected on implementation of regulatory compliance and present some new empirical insights on the regulatory control implementation process and consequential changes in the institutional properties of IS and the accounting functions within the organization.
+
+
+%T CONTINUOUS COMPLIANCE MONITORING IN ERP SYSTEMS - A METHOD FOR IDENTIFYING SEGREGATION OF DUTIES CONFLICTS
+%0 Journal Article
+%A Wolf, Patrick
+%A Gehrke, Nick
+%B Wirtschaftsinformatik Proceedings 2009
+%D 2009
+%8 January  1, 2009
+%U https://aisel.aisnet.org/wi2009/39
+%X Segregation of Duties (SOD) can be seen as one major class of control activities within a company's Internal Control framework, contributing to the reliability of financial reporting. In recent years, SOD controls in terms of user access rights have experienced a surge of attention in particular, mostly due to the growing reliance of business processes on ERP systems. This paper presents a method for automatically identifying SOD conflicts in user access rights as one component of a continuous compliance monitoring framework. The paper further demonstrates the application of the proposed method in a real world project.
+
+
+%T The Role of Demographic Characteristics in Health Care Strategic Security Planning
+%0 Journal Article
+%A Mishra, Sushma
+%A Leone, Gregory
+%A Caputo, Donald
+%A Calabrisi, Robert
+%A Draus, Peter
+%B AMCIS 2012 Proceedings
+%D 2012
+%8 July 29, 2012
+%U https://aisel.aisnet.org/amcis2012/proceedings/ISHealthcare/16
+%X The purpose of this paper is to foster understanding of  the perception of members in healthcare organizations concerning three specific dimensions in the realm of security: strategic planning for security, proactive initiatives for security controls, and training preparedness for security perspective within the context of HIPAA compliance. The research data was collected using a survey instrument with 43 items of demographic information. The data collected was analyzed using demographic characteristics such as age, gender, education and relevant work experience. The aim of the analysis is to assess whether  any significant differences exist between groups regarding the perception of security strategic planning, proactive initiatives and training issues. The statistical results are presented in tabular form with descriptive analysis applied to each of the categories. Data-based conclusions are drawn and future research directions are indicated and discussed.
+
+
+%T On IT Control Weaknesses in Auditors’ Reports on Internal Control
+%0 Journal Article
+%A Boritz, J.
+%A Hayes, Louise
+%A Lim, J.
+%B AMCIS 2012 Proceedings
+%D 2012
+%8 July 29, 2012
+%U https://aisel.aisnet.org/amcis2012/proceedings/AccountingInformationSystems/6
+%X By analysing auditors’ SOX 404 reports from 2004 to 2009 we find after 2006 that reporting of information technology control weaknesses (ITWs) decreased significantly, primarily by Big 4 firms. This change appears to reflect Big 4 reporting practices in response to a change in auditing standards rather than the nature of Big 4 clients’ internal control systems, suggesting that SOX 404 auditors’ reports have become less informative. We find associations between ITW reporting and both non-ITW and financial misstatement reporting are moderated by auditor type and time period (2004-2006 vs. 2007-2009). Based on frequency of reporting, the relative ordering of individual ITWs, while differing over time, is similar over auditor type, company size and industry. We identify a small number of non-ITWs in SOX 404 reporting that may hold practical implications for an auditor’s consideration of IT control testing and an educator’s teaching of IT and non-IT controls.
+
+
+%T Honeykeys: deception mechanisms in single packet authorization
+%0 Journal Article
+%A Butakov, Sergey
+%A Zavarsky, Pavol
+%A Mirheydari, Seyedmohammad
+%B WISP 2019 Proceedings
+%D 2019
+%8 December 15, 2019
+%U https://aisel.aisnet.org/wisp2019/7
+%X Single packet authorization is a technique that allows shielding a protected network service from an outside world. The protection is achieved by hiding the respective transport layer port until cryptographically protected packet received by another service authorizes port opening. The technique has a known weakness related to the key leakage. If secret key is known to the attacker, the shield can be removed by one message. The paper proposes to use a novel Honeykeys authorization scheme that is aimed at deceiving the attacker by storing decoy cryptographic keys on both server and client sides along with the actual keys. In such scheme, if keys are compromised it will not lead to the full-scale system compromise. In addition to that, Honeykeys scheme allows establishing segregation of duties in the authorization process and enables early detection of compromised keys. Apart from presenting theoretical concept of Honeykeys the paper shows preliminary implementation results from the pilot project. These results show acceptable authorization delay times imposed by additional security mechanism.
+
+
+%T EXPLORING THE CONTRIBUTION OF INFORMATION TECHNOLOGY TO GOVERNANCE, RISK MANAGEMENT, AND COMPLIANCE (GRC) INITIATIVES
+%0 Journal Article
+%A Wiesche, Manuel
+%A Schermann, Michael
+%A Krcmar, Helmut
+%B ECIS 2011 Proceedings
+%D 2011
+%8 October  6, 2011
+%U https://aisel.aisnet.org/ecis2011/4
+%X Information technology (IT) has a tremendous impact on the discipline of accounting by introducing new ways of retrieving and processing information about performance deviations and control effectiveness. This paper explores the role of IT for managing organizational controls by analyzing value drivers for particular accounting information systems that commonly run under the label of Governance, Risk Management, and Compliance (GRC IS). We apply a grounded theory approach to structure the value drivers of GRC IS into a research framework. In order to understand the impact of IT, we relate the GRC IS value drivers to control theories. Practical implications include understanding GRC IS benefits beyond compliance and providing clear strategic reasoning for GRC IS depending on the individual company’s situation. Research implications include the fact that integrating IT into the context of accounting leaves several unsolved yet promising issues in theory which future research might address. This paper is the first to use the lens of organizational control theories on Governance, Risk Management, and Compliance information systems and establishes a potentially fruitful research agenda for GRC IS as a highly relevant topic for information systems research.
+
+
+%T The Impact of the Sarbanes-Oxley Act on IT Project Management
+%0 Journal Article
+%A Leih, Michael
+%B Journal of Information Technology Theory and Application (JITTA)
+%D 2006
+%8 October  1, 2006
+%V 8
+%N 3
+%U https://aisel.aisnet.org/jitta/vol8/iss3/4
+%X This case study investigated the impact of the Sarbanes-Oxley Act (SOX) on IT project management within a large, nationwide retail corporation. Using the teleological motor as a framework to evaluate process change, this study observed three primary impacts the SOX mandates had on IT project management: (1) an increase in project management formalization, (2) an increase in project duration, and (3) the need to support project management and audit activities with project management software. The study also observed three secondary effects resulting from the changes made to IT project management practices to support SOX: (1) an increase in process maturity, (2) an increase in the size of the IT staff, and (3) a breaking down of larger projects into more, smaller projects. This dual iteration of the teleological cycle appeared to be a natural action / reaction process to the changes resulting from SOX requirements.
+
+
+%T The Impact of Enterprise System Implementations on Enterprise Risk
+%0 Journal Article
+%A Hall, Laura
+%A Leo, Gemoets
+%A Mahmood, M. Adam
+%A Parra, Fernando
+%B AMCIS 2015 Proceedings
+%D 2015
+%8 June 26, 2015
+%U https://aisel.aisnet.org/amcis2015/EntSys/GeneralPresentations/9
+%X No abstract
+
+
+%T Assessment Mechanism of Internal Control for Information Technology Governance
+%A Chang, I-Cheng
+%A Chang, She-I
+%A Liu, Chuang-Chun
+%B PACIS 2013 Proceedings
+%D 2013
+%8 June 18, 2013
+%U https://aisel.aisnet.org/pacis2013/117
+%X More publicly listed firms have emphasized the effectiveness of internal control in an information technology environment. Hence, this study presents a logical assessment mechanism for appraising the internal control of information technology. The strategy is based on Gowin’s Vee structure. On the theory side, this study explores the assessment items of internal controls on information environment by using grounded theory, and then confirms the items via the Delphi methodology. On the empirical side, this assessment model is verified via a multiple-case study to examine its usability in practice. This study expects that management and external IT auditors will apply such a mechanism to enhance the handling of internal control during the IT control evaluation stages.
+
+
+%T Cloud Forensics Investigations Relationship: A Model And Instrument
+%0 Journal Article
+%A Husaini, Younis AL
+%A Warren, Matthew
+%A Pan, Lei
+%A Gharibi, Mansoor AL
+%B ACIS 2019 Proceedings
+%D 2019
+%8 January  1, 2019
+%U https://aisel.aisnet.org/acis2019/83
+%X Cloud computing is one of the most important advances in computing in recent history. cybercrime has developed side by side and rapidly in recent years. Previous studies had confirmed the existing gap between cloud service providers (CSPs) and law enforcement agencies (LEAs), and LEAs cannot work without the cooperation of CSPs. Their relationship is influenced by legal, organisational and technical dimensions, which affect the investigations. Therefore, it is essential to enhance the cloud forensics relationship between LEAs and CSPs. This research addresses the need for a unified collaborative model to facilitate proper investigations and explore and evaluate existing different models involved in the relationship between Omani LEAs and local CSPs as a participant in investigations. Further, it proposes a validated research instrument that can be cloud forensics survey. It can also be used as an evaluation tool to identify, measure, and manage cloud forensic investigations.
+
+
+%T Positive and Negative Findings of the ISO/IEC 17799 Framework
+%0 Journal Article
+%A Wiander, Timo
+%B ACIS 2007 Proceedings
+%D 2007
+%8 January  1, 2007
+%U https://aisel.aisnet.org/acis2007/75
+%X The ISO/IEC 17799 standard is commonly viewed as a necessary element in information security management. However, there is no empirical evidence of the usefulness of the standard in practice. To study this issue, this study analyses the implementation experiences of four organisations that have implemented the ISO/IEC 17799 standard. Through semi-structured interviews, the results of the study suggest that clients’ needs and competitive advantage are the major reasons for implementing the standard. Furthermore, the implementation of the standard has increased the understanding of information security in all personnel groups and the understanding of security has broadened from the technical aspects to corporate security. As downsides of implementing the ISO/IEC 17799 standard, the costs and increased amount of work were mentioned as the worst. In addition, the difficulties in deploying the standard, and the readability of the standard were criticised. The standard was also criticised because it does not directly affect the quality of the end product or service; it only has an indirect effect owing to the improved information security practices.
+
+
+%T Towards Value-based Design Patterns for Inter-Organizational Control
+%0 Journal Article
+%A Kartseva, Vera
+%A Hulstijn, Joris
+%A Tan, Yao-Hua
+%A Gordijn, Jaap
+%B BLED 2006 Proceedings
+%D 2006
+%8 January  1, 2006
+%U https://aisel.aisnet.org/bled2006/22
+%X We present control patterns: a framework for designing and analyzing interorganizational control mechanisms, inspired by design patterns. A control pattern is a generic solution for some recurring control problem, applicable in a certain context. The patterns are based on internal control theory from the accounting and auditing fields, and on previous work on inter-organizational controls. The application of the patterns is supported by the e3-control methodology, which is based on the e3-value business modeling tool. The patterns are applied in a case study.
+
+
+%T ERP Competencies: What Does Business Need?
+%0 Journal Article
+%A Watson, Ed
+%A Sumner, Mary
+%A Corbitt, Gail
+%B AMCIS 2006 Proceedings
+%D 2006
+%8 December 31, 2006
+%U https://aisel.aisnet.org/amcis2006/256
+
+
+%T The Consequences of Information Technology Control Weaknesses on Management Information Systems:  The Case of Sarbanes–Oxley Internal Control Reports
+%0 Journal Article
+%A Li, Chan
+%A Peters, Gary F.
+%A Richardson, Vernon J.
+%A Watson, Marcia Weidenmier
+%B Management Information Systems Quarterly
+%D 2012
+%8 March  1, 2012
+%V 36
+%N 1
+%P 179-203
+%U https://aisel.aisnet.org/misq/vol36/iss1/14
+%X In this article, the association between the strength of information technology controls over management information systems and the subsequent forecasting ability of the information produced by those systems is investigated. The Sarbanes–Oxley Act of 2002 highlights the importance of information system controls by requiring management and auditors to report on the effectiveness of internal controls over the financial reporting component of the firm’s management information systems. We hypothesize and find evidence that management forecasts are less accurate for firms with information technology material weaknesses in their financial reporting system than the forecasts for firms that do not have information technology material weaknesses. In addition, we examine three dimensions of information technology material weaknesses: data processing integrity, system access and security, and system structure and usage. We find that the association with forecast accuracy appears to be strongest for IT control weaknesses most directly related to data processing integrity. Our results support the contention that information technology controls, as a part of the management information system, affect the quality of the information produced by the system. We discuss the complementary nature of our findings to the information and systems quality literature.
+
+
+%T An Implementation of a Process-Oriented Cross-System Compliance Monitoring Approach in a SAP ERP and BI Environment
+%A Sandner, Thorben
+%A Kehlenbeck, Matthias
+%A Breitner, Michael H.
+%B ECIS 2010 Proceedings
+%D 2010
+%8 January  1, 2010
+%U https://aisel.aisnet.org/ecis2010/106
+%X Compliance to regulatory demands has become a crucial matter for organizations. Non-observancemay lead to far-reaching consequences, e.g. damage to reputation, decline of credit rating or marketvalue, fraud and fines. The success of compliance management correlates with the frequency ofmonitoring and reporting and is affected by complex and often time-consuming manual validationtasks. To address this problem, organizations implement corresponding IT solutions. However, theoften heterogeneous system landscapes, the different information sources and their integrationrepresent major challenges.This paper presents an implementation of a novel process-oriented and cross-system compliancemonitoring approach. The approach is based on a model which provides for the annotation ofbusiness processes with internal controls, critical permissions and roles as well as an architecturewhich provides for the automatic detection, timely communication and deep analysis of controlexceptions. It solely relies on established standards (i.e. XACML, BPMN, COSO and SWRL) andexisting technologies. The implementation has been deployed in a productive SAP ERP and BIenvironment. It automatically converts access control data from the proprietary SAP model andpublishes control exceptions to the BI system. The effects and causes of these control exception can beappropriately analyzed using BI queries and reports.
+
+
+%T Disintegrating Information Technology in Corporate Divestures: Implications for Regulatory Compliance Risks and Costs
+%0 Journal Article
+%A Tanriverdi, Huseyin
+%A Du, Kui
+%B ICIS 2009 Proceedings
+%D 2009
+%8 January  1, 2009
+%U https://aisel.aisnet.org/icis2009/50
+%X Prior research has paid very little attention, if at all, to the risks and costs entailed in IT disintegration processes. In this study, we begin addressing this gap by studying how IT disintegration challenges posed by corporate divestitures affect the regulatory compliance risks and costs of divesting firms in the context of the Sarbanes-Oxley Act of 2002 (SOX). We hypothesize that firms with higher corporate divestiture intensities are more likely to have material weaknesses in their IT controls, more likely to become incompliant with SOX, and more likely to incur higher auditor fees during SOX audits. We also hypothesize that superior IT capabilities could reduce the probability and magnitude of the regulatory compliance risks and costs during divestitures. We find empirical support for these hypotheses in a sample of 252 publicly traded U.S firms that were audited independently for SOX compliance between 2004 and 2008.
+
+
+%T PROCESS ANALYSIS AS FIRST STEP TOWARDS AUTOMATED BUSINESS SECURITY
+%A Zahoransky, Richard
+%A Holderer, Julius
+%A Lange, Adrian
+%A Brenig, Christian
+%B Research Papers
+%D 2016
+%8 June 15, 2016
+%U https://aisel.aisnet.org/ecis2016_rp/46
+%X Companies are promoting the implementation of automation in business processes to face the high level of competitive pressure induced in the course of globalization and interconnected environments. Additionally, a series of corporate scandals obliges companies to implement regulatory and legally binding rules. Required compliance analysis of those bindings is costly and time consuming, eating up the previously gained competitive advance. Our toolkit SWAT meets this contradiction by introducing automatic compliance analysis techniques. It provides a pattern based analysis approach with predefined patterns that contain security and compliance statements which are easily reusable. This approach allows subsequent analyses with minimal user interaction as a first step towards an automatic contemporary compliance analysis of workflows. Based on mathematically sound analysis techniques, our tool graphically shows violation examples for effortless interpretation of analysis results and identification of inconformities. In this paper we present the possibilities of our toolkit to analyse process models as well as process logs. We demonstrate its underlying techniques and concepts on a real world ordering process.
+
+
+%T User Participation in Information Systems Security Risk Management
+%0 Journal Article
+%A Spears, Janine L.
+%A Barki, Henri
+%B Management Information Systems Quarterly
+%D 2010
+%8 September  1, 2010
+%V 34
+%N 3
+%P 503-522
+%U https://aisel.aisnet.org/misq/vol34/iss3/8
+%X This paper examines user participation in information systems security risk management and its influence in the context of regulatory compliance via a multi-method study at the organizational level.  First, eleven informants across five organizations were interviewed to gain an understanding of the types of activities and security controls in which users participated as part of Sarbanes-Oxley compliance, along with associated outcomes.  A research model was developed based on the findings of the qualitative study and extant user participation theories in the systems development literature. Analysis of the data collected in a questionnaire survey of 228 members of ISACA, a professional association specialized in information technology governance, audit, and security, supported the research model.  The findings of the two studies converged and indicated that user participation contributed to improved security control performance through greater awareness, greater alignment between IS security risk management and the business environment, and improved control development.  While the IS security literature often portrays users as the weak link in security, the current study suggests that users may be an important resource to IS security by providing needed business knowledge that contributes to more effective security measures.  User participation is also a means to engage users in protecting sensitive information in their business processes.
+
+
+%T Developments In Practice XXI: IT in the New World of Corporate Governance Reforms
+%A Smith, Heather A.
+%A McKeen, James D.
+%B Communications of the Association for Information Systems
+%D 2006
+%8 May 22, 2006
+%V 17
+%N 1
+%U https://aisel.aisnet.org/cais/vol17/iss1/32
+%X In the past, IT was only marginally affected by regulatory matters. Today, however, IT is in the middle of a whirlwind of corporate governance reforms. New standards for internal controls are affecting almost every aspect of IT work. These, in turn, have significant implications on how IT is managed and on IT costs and productivity. For example, many IT organizations have been so involved in developing and implementing Sarbanes-Oxley (SOX) procedures that very little has actually been accomplished for the business itself. This paper explores how new compliance frameworks and governance reforms, mandated by governments and/or industry groups, are changing IT work. It examines what IT managers perceive to be most significant issues these reforms present IT in their particular organizations. This paper is not designed to provide detailed information about IT controls and how to achieve them. Instead, it is intended to be a general introduction to the changing expectations of IT and how these are affecting IT work, structure and governance. It looks at the new effects regulatory issues are having in IT, and then examines the key issues IT managers face in an increasingly regulated environment. Next, it identifies the key areas within IT that are affected and the types of activities that need to be addressed by managers in order to achieve effective controls. Finally some recommended good practices are presented. The authors conclude that there is no question that new laws and regulations governing organizations, their finances and their information are having a huge impact on IT. IT managers are struggling to implement new controls and document existing ones, while still ensuring business as usual and trying to develop the new systems their companies need. The world is requiring IT to become thoroughly professional about what it does. The IT of the future will therefore of necessity be increasingly controlled, standardized and bureaucratized. It remains to be seen whether or not management will be able to use this "new and improved" IT for competitive advantage.
+
+
+%T ENTERPRISE RESOURCE PLANNING (ERP) SYSTEMS IMPLEMENTATION AND INTERNAL AUDIT FUNCTION CHANGE
+%0 Journal Article
+%A Elbardan, Hany
+%A Ali, Maged
+%B ECIS 2011 Proceedings
+%D 2011
+%8 October  6, 2011
+%U https://aisel.aisnet.org/ecis2011/196
+%X The economic crisis and the financial scandals highlight the significance of corporate governance. The internal audit function has gained great attention for assuring good corporate governance. ERP systems significantly change the information processing environment in organisations and act as a means of corporate governance change. ERP systems have embedded structures and institutional logics which could conflict with the corporate governance institutional logics in use. The internal audit function should be changed in terms of practices and structure to maintain its legitimacy as a corporate governance tool that adds value. In this paper, the authors articulate institutional theory to formulate a primary conceptual framework to explore how does the internal audit function respond to the misalignment between the ERP systems institutional logics and the corporate governance institutional logics. Internal auditors can respond to the misalignment with acquiescence, compromise, avoidance, defiance or manipulation strategies. This conceptual framework will be validated by conducting two case studies in Egypt and two in the UK in the banking sector.
+
+
+%T Basic Principles of Financial Process Mining A Journey through Financial Data in Accounting Information Systems
+%0 Journal Article
+%A Gehrke, Nick
+%B AMCIS 2010 Proceedings
+%D 2010
+%8 August  1, 2010
+%U https://aisel.aisnet.org/amcis2010/289
+%X Auditors and process managers often face a huge amount of financial entries in accounting information systems. For many reasons like auditing the internal control system a process-oriented view would be more helpful to understand how a set of transactions produced financial entries. For this reason we present an algorithm capable to mine financial entries and open items to reconstruct the process instances which produced the financial entries. In this way, auditors can trace how balance sheet items have been produced in the system. Traditional process mining techniques only reconstruct processes but pay no regard to the financial dimension. The paper wants to close this gap and integrate the process view with the accounting view.
+
+
+%T A Survey of DevOps in the South African Software Context
+%A Rowse, Morgan
+%A Cohen, Jason
+%B Hawaii International Conference on System Sciences 2021 (HICSS-54)
+%D 2021
+%8 January  4, 2021
+%U https://aisel.aisnet.org/hicss-54/st/agile_development/4
+%X This study investigated DevOps practices and experiences in the South African software development context, along with associated perceptions of benefits and challenges. Survey data collected from a sample of 80 software development professionals showed that more frequent builds, earlier detection of bugs and reduced project lead times were the top three benefits, while getting DevOps capable members into a team, finding experienced professionals to support DevOps practice and changing deep-seated company culture to support DevOps were the top three challenges. DevOps practices are still emerging. Although 85% of respondents report continuous integration as a frequent practice, only 54% report using continuous deployment frequently. The biggest reported impacts of DevOps on software development culture were in making development team members aware of operational faults, responsible for quality assurance, and responsible for deployments. Realisation of benefits from DevOps depends largely on a culture change. Results are useful for guiding organisations considering DevOps adoption.
+
+
+%T The Role of Trust in Government Control of Businesses
+%0 Journal Article
+%A Burgemeestre, Brigitte
+%A Hulstijn, Joris
+%A Tan, Yao-Hua
+%B BLED 2010 Proceedings
+%D 2010
+%8 January  1, 2010
+%U https://aisel.aisnet.org/bled2010/20
+%X Governments have the responsibility to control whether businesses are compliant with regulations in various areas such as health, safety, security, tax and customs. Traditionally, this control is exercised in a command-and-control fashion: businesses provide data to the control agencies, and in addition these agencies perform inspections of the businesses. To reduce administrative burden, governments are investigating `horizontal’ governance models, built on the responsibility and participation of companies. The information needs of both companies and agencies are changing and trust is now playing a more prominent role. Appropriate information management, supported by IT systems helps the trust relation to evolve. The model of transitional stages of trust (Lewicki and Bunker) identifies information needs per trust level. In this paper we link ‘horizontal’ governance strategies with the trust levels of lewicki and Bunker to identify information needs. Information needs determine requirements for enterprise information systems and eGovernment applications. We define hypotheses about the trust levels and information needs of ‘horizontal’ governance strategies. The hypotheses are evaluated in a case study of the system-based control approach of Dutch Tax and Customs Administration. We find that system-based control corresponds to knowledge-based trust, and that the information which must be gathered corresponds with both calculus-based and knowledge-based trust.
+
+
+%T Organisational Culture in IT Projects: A Case Study Analysis
+%0 Journal Article
+%A Beshay, Maggie
+%A Sixsmith, Alan
+%B ACIS 2007 Proceedings
+%D 2007
+%8 January  1, 2007
+%U https://aisel.aisnet.org/acis2007/112
+%X The aim of this research in progress paper is to explore the organisational culture in the context of information technology (IT) projects. Two case study projects are presented and analysed via the Johnson and Scholes (1999) Cultural Web. Data collection was undertaken using the qualitative methods of reflective observation and informal discussion with project team members which was made possible as one of the researchers had worked on both projects. The results show that both projects were quite dissimilar in all but the Rituals component of the Cultural Web. This research has also developed and pilot tested a questionnaire in relation to organisational culture in the context of IT projects, however this is not the focus of this paper.
+
+
+%T Building Context-Aware Access Control In Enterprise Ontologies
+%A Flory, Long
+%B AMCIS 2013 Proceedings
+%D 2013
+%8 May 30, 2013
+%U https://aisel.aisnet.org/amcis2013/IntelligentSystems/RoundTablePresentations/2
+%X Knowledge centric management (KCM) has become a key strategy for competitive edge. As an essential of KCM, an enterprise ontology represents the knowledge of an organization. Thus, the need for securing enterprise ontologies (EO) becomes imperative. Adequate access control is a major component of ontology security. However, access control for EO is largely neglected in information systems (IS) literature. This paper presents the first research to fill this gap. I propose five requirements for good access-control solutions for EO. The proposed solution offers an architecture framework that meets the five requirements. Semantic Web technology is used to build context-aware access controls into EO. My proposal includes a novel resolution for policy conflicts. This study provides the first design of fine-grained and dynamically-adjusted access authorizations.
+
+
+%T Metrics for Information Security - A literature review
+%0 Journal Article
+%A Sharman, Raj
+%A Rao, Raghav
+%A Upadhyaya, Shambhu
+%B AMCIS 2004 Proceedings
+%D 2004
+%8 December 31, 2004
+%U https://aisel.aisnet.org/amcis2004/181
+
+
+%T A Model for teaching hands-on IT Audit skills to IS students
+%A Nzailu, Arnold
+%A Alyami, Hassan
+%A Streff, Kevin
+%B MWAIS 2017 Proceedings
+%D 2017
+%8 June  1, 2017
+%U https://aisel.aisnet.org/mwais2017/41
+
+
+%T A Logic Based Modeling Approach to Managing Workflow Policy Changes
+%0 Journal Article
+%A Wang, Harry J.
+%A Zhao, J. Leon
+%B AMCIS 2005 Proceedings
+%D 2005
+%8 January  1, 2005
+%U https://aisel.aisnet.org/amcis2005/320
+%X Workflow management systems are becoming increasingly important in the automation of business processes. In order to ensure proper workflow execution, workflow policies must be specified with respect to users, roles, and tasks. In today’s dynamic business environment, successful organizations must be able to respond to new customer demands and market opportunities with flexibility and speed. However, without systematic management of workflow policies, changes in organizational structure and process models can lead to inconsistent workflow specifications. Thus far, research in the change management of workflow policies has been scant. In this paper, we propose a logic-based approach to address this problem. Our contribution is three-fold: 1) a modeling language based on predicate logic is proposed, which is succinct and expressive enough to represent process model, organization model, and workflow polices; 2) workflow policy consistency in a dynamic changing environment is formally defined and analyzed based on the proposed language. 3) two algorithms are developed to check and enforce the policy consistency. To the best of our knowledge, this is the first work focuses on the formal analysis of workflow policy change management.
+
+
+%T Data Breaches in Multihospital Systems: Antecedents and Mitigation Mechanisms
+%A Tanriverdi, Huseyin
+%A Kwon, Juhee
+%A Im, Ghiyoung
+%B ICIS 2020 Proceedings
+%D 2020
+%8 December 14, 2020
+%U https://aisel.aisnet.org/icis2020/cyber_security_privacy/cyber_security_privacy/10
+%X We study antecedents and mitigation mechanisms of data breaches in the U.S hospital industry. More than 65% of U.S hospitals belong to a multihospital system (MHS). The MHS is a complex organization that owns hospitals and non-hospital care facilities such as physician networks, nursing homes, senior living homes, etc. We hypothesize that data breaches of an MHS would be increased by: (i) complexity of the different care services offered by its member hospitals, (ii) complexity of external collaborations of the member hospitals, (iii) complexity of internal IT applications of the member hospitals, and (iv) complexity of external IT applications of member hospitals such as health information exchange (HIE) connections. We also hypothesize that an MHS can potentially mitigate some of its data breaches by standardizing data security solutions across its member hospitals. We find support for these ideas in a study of 446 MHS and 3,823 MHS-Year observations during 2009-2017.
+
+
+%T How A Newly Established Company Realises The Benefits Of ERP Implementation: A Palestinian Case Study
+%0 Journal Article
+%A Anaya, Luay
+%B UK Academy for Information Systems Conference Proceedings 2014
+%D 2014
+%8 April  9, 2014
+%U https://aisel.aisnet.org/ukais2014/21
+%X Many organisations adopt large-scale enterprise information systems (EIS), because they are looking for more comprehensive benefits than those available from small, off-the-shelf software applications. However, adoption of EIS has often proved to be challenging and expensive. This work is designed as an inductive case study using a retrospective investigation to understand the process that allows a newly established company to obtain substantial benefits from an ERP system. The main contribution of this work is an improved understanding of how a successful implementation for the ERP system that incorporates some activities of benefits management framework but, without explicit adoption of these benefits managements techniques, can help organizations realise substantial benefits from the system. The results of this study also suggest that broad expectations and wide-ranging objectives are determined in the early stage, without detailed specification of the benefits. The findings also emphasise that a low level of customisation can lead to improved realisation of benefits.
+
+
+%T Senior Executives' IT Management Responsibilities:  Serious IT-Related Deficiencies and CEO/CFO Turnover
+%0 Journal Article
+%A Masli, Adi
+%A Richardson, Vernon
+%A Watson, Marcia Weidenmier
+%A Zmud, Robert W.
+%B Management Information Systems Quarterly
+%D 2016
+%8 September  1, 2016
+%V 40
+%N 3
+%P 687-708
+%U https://aisel.aisnet.org/misq/vol40/iss3/10
+%X While the information systems scholarly and practice literatures both stress the importance of senior executive engagement with IT management, the recommendations for doing so remain, at best, limited and general. Examining the influence of serious IT-related deficiencies on CEO/CFO turnover within the post-SOX financial reporting context, specific CEO/CFO IT management responsibilities are identified: CEOs are shown to be held accountable for global IT management responsibilities, and CFOs are shown to be held accountable for demand-side IT management responsibilities. Implications for information systems research, management research, and information systems practice are provided.
+
+
+%T ENFORCING COMPLIANCE ON BUSINESS PROCESSES THROUGH THE USE OF PATTERNS
+%0 Journal Article
+%A Turetken, Oktay
+%A Elgammal, Amal
+%A van den Heuvel,, Willem-Jan
+%A Papazoglou, Mike
+%B ECIS 2011 Proceedings
+%D 2011
+%8 October  6, 2011
+%U https://aisel.aisnet.org/ecis2011/5
+%X In the past recent years, business process compliance has become an area of significant concern to many organizations. Despite an increasing number of methods and tools, organizations are still facing difficulties in finding effective support to ensure that their business processes comply with the requirements set forth by regulations, laws, standards, etc. While manual solutions offer limited assurance for compliance, there is a lack of a comprehensive framework for semi-automatically managing compliance requirements and ensuring compliance throughout all the phases of business process lifecycle. One of the foundational building blocks of such a framework is a generic conceptual model that supports factoring compliance and its relation to business processes. This paper introduces a compliance conceptual model to capture and manage compliance requirements and to relate them to business processes in a transparent and verifiable manner. The model also incorporates a set of patterns to facilitate the specification of formal compliance rules to be used for automated compliance verification and monitoring. We have developed a set of integrated tools that supports our framework and partially validated the framework in two case studies involving industry companies.
+
+
+%T Improving the Success of Continuous Auditing Projects with a Comprehensive Implementation Framework
+%0 Journal Article
+%A Kiesow, Andreas
+%A Zarvic, Novica
+%A Thomas, Oliver
+%B ECIS 2015 Completed Research Papers
+%D 2015
+%8 May 29, 2015
+%U https://aisel.aisnet.org/ecis2015_cr/99
+%X The major aim of this paper is to create awareness of the demand for computer-assisted audit solutions within the European research community. The cause of this demand is twofold; on the one hand, regulatory pressure is increasing through both the reform of the audit sector in the European Union regarding mandatory audit firm rotation and tightened independence requirements. On the other hand, the speed and volume of data processing requires fast and qualitative audit results. These circumstances lead to the need to shift audit processes from traditional sample selection based on historical data to permanent monitoring and assurance of accounting-relevant processes and data–Continuous Auditing (CA). However, the implementation of CA systems is a recognized challenge for researchers and practitioners. Through the review of relevant literature regarding the issues and barriers of CA projects, sixteen critical success factors (CSFs) of CA were explored. These CSFs were condensed into one framework considering three different levels of business diffusion (strategy, processes, and systems) as well as stakeholders of CA projects (enterprise, project management, audit, and external environment). In terms of the conceptual level of the proposed framework, the authors of this paper chose a fictitious scenario and conducted an informed argument to evaluate the framework.
+
+
+%T A Real-World ERP Pre-Implementation Case for the Classroom
+%0 Journal Article
+%A Bierstaker, James
+%A Chung, Q
+%A Lee, Johnny
+%A Sipior, Janice C.
+%B Communications of the Association for Information Systems
+%D 2014
+%8 January  1, 2014
+%V 34
+%N 1
+%U https://aisel.aisnet.org/cais/vol34/iss1/6
+%X This article presents the results of an empirical evaluation of the use of a real-world case study, based on an actual Big Four consulting engagement, to teach information systems and accounting courses. While alternative approaches for adopting the case are suggested, we used the case study in an undergraduate case competition judged by Big Four partners to enhance realism. Students, working in teams, assumed the role of consultants and defended their recommendations involving the assessment of key business process controls within the final phase of ERP implementation. In this process, students are expected to benefit by understanding the relationship between information systems and accounting in an ERP implementation project; learning to work more effectively in teams; and improving analytical, oral, and written communication skills. Evaluation of the use of the case study in an undergraduate case competition, judged by Big Four partners, shows that the students generally agreed that they had attained these benefits. The actual case materials, questions with suggested solutions, case competition rules and procedures, judges’ assessment form, and the winning team’s written report and PowerPoint presentation slides are provided.
+
+
+%T A Case Study on the Application of Process Mining in Combination with Journal Entry Tests for Financial Auditing
+%A Stephan, Sebastian
+%A Lahann, Johannes
+%A Fettke, Peter
+%B Hawaii International Conference on System Sciences 2021 (HICSS-54)
+%D 2021
+%8 January  4, 2021
+%U https://aisel.aisnet.org/hicss-54/os/risks/2
+%X The increasing complexity of data and processes within companies makes it increasingly difficult for auditors to ensure that annual audits are free of material misstatement. To cope with this complexity, a variety of analytical procedures have been developed in the last years. However, most of the existing procedures focus on conspicuous statements in the general ledger, and thus not consider behavioral aspects. In this paper, we show how journal entry tests can be effectively combined with process mining to capture a more comprehensive view within a company's audit. Therefore, the paper gives a comprehensive description of the purchase-to-pay-process and its realization in current SAP software as well as the required mechanism to extract event logs from raw SAP database tables. The conducted analysis is based on a dataset provided by a German medium-sized audit firm. The results suggest that we can discover anomalies that are not traceable through traditional analysis.
+
+
+%T A Framework for Online Internal Controls
+%0 Journal Article
+%A Deshmukh, Ashutosh
+%B AMCIS 2004 Proceedings
+%D 2004
+%8 December 31, 2004
+%U https://aisel.aisnet.org/amcis2004/554
+
+
+%T The Valuation Damage from Financial Systems Weaknesses: A Study of SOX Section 404 Disclosures
+%0 Journal Article
+%A Weber, Bruce
+%B UK Academy for Information Systems Conference Proceedings 2009
+%D 2009
+%8 March 31, 2009
+%U https://aisel.aisnet.org/ukais2009/49
+%X IT systems and effective internal controls are essential to reliable financial reporting and good corporate governance. For this reason, Section 404 of the Sarbanes-Oxley Act of 2002 (SOX) identified IT and financial systems as a key source of financial reporting risk. Disclosures made in 68 10K filings from 46 companies in 2005-2007 reported that internal controls over financial reporting were ineffective due to shortcomings in IT systems. Although evidence on the financial payoffs from IT is mixed, material weaknesses in financial controls due to IT clearly have negative shareholder value consequences. For these firms, an average abnormal return of –1.6% was found over a 2-day (0,+1) window around the reporting date. Moreover, 23 of the companies failed to remediate their control problems, and suffered an average –2.1% abnormal return in the 2-day window around their next (2006) 10K filing date. Longer term returns on portfolios of these non-compliant companies also reflect underperformance. The shareholder returns evidence shows that IT management requirements for SOX compliance contribute to good corporate governance and shareholder value.
+
+
+%T Infusing with ERP Systems: A Longitudinal Investigation of the Impact of Control and Empowerment
+%0 Journal Article
+%A Maas, Jan-Bert
+%A van Fenema, Paul C.
+%A Soeters, Joseph
+%B DIGIT 2013 Proceedings
+%D 2013
+%8 December 15, 2013
+%U https://aisel.aisnet.org/digit2013/5
+%X Organizations have made significant investments in ERP systems with the strategic expectation that employees will utilize this technology to enhance organizational performance. However, research indicates that ERP systems are under-utilized. In order to entangle the challenge of under-utilization, this paper addresses the impact of control and empowerment on infusion – the deep and comprehensive usage of an information system. We apply a longitudinal design with two measurements to research whether the level of infusion of ERP users changes over time, and if so to what extent. Moreover we hypothesize that ‘soft’ characteristics like the organizational position, organization commitment and trust influence the relation between control, empowerment and the level of infusion of the ERP user. A survey was conducted in a large public organization which has been using an ERP system for several years. A sample of 178 matched pairs (For T1 and T2) of ERP system users and their supervisors has been collected. In this research in progress we present the theoretical mechanisms and methodological framework we employed for the data collection. 
+
+
+%T Issues with Incorporating Regulatory Compliance into Agile Development:  A Critical Analysis
+%0 Journal Article
+%A Mishra, Sushma
+%A Weistroffer, H. Roland
+%B SAIS 2008 Proceedings
+%D 2008
+%8 March  1, 2008
+%U https://aisel.aisnet.org/sais2008/1
+%X Agile development methodology is widely used for software development in organizations. Incorporating regulatory compliance aspects in development process is important. This paper discusses various issues in considering compliance aspects into development process. An analysis of different aspects of compliance related issues is presented.
+
+
+%T Integration of the COBIT 5 Framework into the SDLC for Development of a User Access Attestation System
+%A Bunnell, Lawrence
+%A Weistroffer, H. Roland
+%B SAIS 2017 Proceedings
+%D 2017
+%8 March 25, 2017
+%U https://aisel.aisnet.org/sais2017/14
+%X As organizations face increasing legal and regulatory oversight due to legislation such as SOX and HIPPA, controls for information technology (IT) have become a critical focus. Thus, it is essential that those charged with IT governance pay particular attention to which users may initiate, authorize, process, store, and report transactions. Periodic user access attestations, authorizing appropriate employee use of IT artifacts, are a means of ensuring that proper controls are maintained. Cost-efficient applications to support managing appropriate IT user access are needed to ensure regulatory compliance. This research maps the COBIT 5 framework to the systems development lifecycle (SDLC) to develop a user access attestation system using widely available in-house tools.
+
+
+%T A Theoretical Basis for Defining Internal Control Objectives for Information Systems Security
+%0 Journal Article
+%A Mishra, Sushma
+%A Dhillon, Gurpreet
+%B AMCIS 2007 Proceedings
+%D 2007
+%8 December 31, 2007
+%U https://aisel.aisnet.org/amcis2007/347
+
+
+%T AN OPERATIONAL RISK MANAGEMENT FRAMEWORK FOR FINANCIAL SERVICES INDUSTRY
+%A Osken, Cem L.
+%A Onay, Ceylan
+%B Research-in-Progress Papers
+%D 2016
+%8 June 15, 2016
+%U https://aisel.aisnet.org/ecis2016_rip/43
+%X Financial corporations are considered to be adept at measuring and managing their operational risks. The rapid adoption of information systems in every part of the finance industry has forced the actors to measure and manage their information-systems risks as well. However, identifying the relationships among the information systems and the business processes and how those relations affect the operational risks of those business processes has proven to be quite difficult resulting in a multitude of different frameworks that measure IS related risks separately from the operational risks of business processes. Those approaches obviously yield an incomplete picture as the integrity, security or the availability of a financial transaction can’t be approximated without considering the enormous IS infrastructure used to create and store it. Our research aims to create a framework that treats IS related risks as variables in the overall operational risk function for a holistic risk measurement by using enterprise architecture perspective and improving on existing operational risk management and IS risk management frameworks.
+
+
+%T A Business Rules Viewpoint on Risk and Compliance Management
+%0 Journal Article
+%A Zoet, Martijn
+%A Versendaal, Johan
+%A Ravesteyn, Pascal
+%B BLED 2011 Proceedings
+%D 2011
+%8 January  1, 2011
+%U https://aisel.aisnet.org/bled2011/25
+%X Business rules management is a mean by which an organization realizes controllability of business activities to fulfill goals. Currently the focus of controllability is mainly on effectiveness, efficiency and output quality. Little attention is paid to risk, stakeholder concerns and high level goals. The purpose of this work is to present a viewpoint relating business rules management with concepts of risks, stakeholder, concerns and goals. The viewpoint is presented by means of a meta-model existing out of six concepts: stakeholder, concern, goal, business rule, requirements and implementation mechanism. In a case study the proposed view is validated in terms of completeness, usability and accuracy. Results illustrate the completeness, usability and a high degree of accuracy of our defined view. Future research is suggested on the development of a modeling language to improve the communicational value and ease of use of the meta-model.
+
+
+%T A Universal Windows Bootkit: An Analysis of the MBR Bootkit "HDRoot"
+%A Showalter, William
+%B Hawaii International Conference on System Sciences 2017 (HICSS-50)
+%D 2017
+%8 January  4, 2017
+%U https://aisel.aisnet.org/hicss-50/st/digital_forensics/2
+%X In October, 2015 Kaspersky released an analysis of the bootkit “HDRoot”. Their analysis highlighted mistakes in the bootkit, which made it ineffective at performing its task. Upon attempts to replicate that analysis however, it appears that these conclusions were in error and the bootkit works with any Windows version in the last 16 years. HDRoot represents a serious commitment in time and effort to develop, and an in-depth analysis reveals the work of a significantly capable threat actor. The sample analyzed here dates to 2013, and is the same sample Kasperky reports to have analyzed in their post. However, all evidence points to Kaspersky performing analysis with a 2006 sample, likely the reason for their conclusions. Additionally, mistakes made in reporting the capability of offensive software, provided without means to verify, hurt the security industry by misleading practitioners and limiting their ability for informed decision making.
+
+
+%T Supporting Compliance through Enhancing Internal Control Systems by Conceptual Business Process Security Modeling
+%A Riesner, Moritz
+%A Pernul, Günther
+%B ACIS 2010 Proceedings
+%D 2010
+%8 January  1, 2010
+%U https://aisel.aisnet.org/acis2010/2
+%X The importance of Business Process Modeling (BPM) particularly in sensitive areas combined with the rising impact of legislative requirements on IT operations results in a need to conceptually represent security seman- tics in BPM. We define critical security semantics that need to be incorporated in BPM to aid documentation of security needs and support compliant behavior of security systems. We analyze ways to express such semantics in BPM and their possible role in designing and operating internal control systems, which ensure and document the execution of compliance-related activities. The analysis shows that there are informal, semi-formal and for- mal approaches to represent security semantics in BPM. We consider the informal approaches as best suited to express security objectives and their formal counterparts as best to specify security mechanisms to enforce the objectives. All three groups of approaches have the potential to enhance the expressiveness and informative value of an internal control system.
+
+
+%T The impact of information technology on accounting theory, accounting profession, and Chinese Accounting education
+%A Liyan, Liu
+%B WHICEB 2013 Proceedings
+%D 2013
+%8 May 25, 2013
+%U https://aisel.aisnet.org/whiceb2013/103
+%X Application of information technology in accounting has improved the efficiency and quality of the work, optimized business decision and risk management. However, the research on application of accounting information system, as well as the application level is far behind the development of the information system itself. The paper analyzes the impact of information technology on accounting theory, on accounting profession, and further analyzes its impact on accounting education, and tries to give some suggestions.
+
+
+%T Supporting Business Process Compliance in Financial Institutions – A Model-Driven Approach
+%A Becker, Jörg
+%A Bergener, Philipp
+%A Delfmann, Patrick
+%A Eggert, Mathias
+%A Weiss, Burkhard
+%B Wirtschaftsinformatik Proceedings 2011
+%D 2011
+%8 January  1, 2011
+%U https://aisel.aisnet.org/wi2011/75
+%X Recently, several approaches have been developed to check process models for compliance with laws and regulations. In this paper a contribution is made with respect to reducing the com-plexity of compliance checking by partially automating business process compliance (BPC) checking. We present a model check-ing approach that is able to check process models for BPC. In particular, we apply a generic pattern matching approach to the Semantic Business Process Modeling Language (SBPML) allow-ing for extended model checking not being restricted to predeces-sor-successor relationships. Finally, we apply the BPC checking approach to the example of a credit approval process from a real-world bank scenario using a demonstrator modeling software.
+
+
+%T Integrating Risks in Business Process Models
+%0 Journal Article
+%A Rosemann, Michael
+%A zur Muehlen, Michael
+%B ACIS 2005 Proceedings
+%D 2005
+%8 December 31, 2005
+%U https://aisel.aisnet.org/acis2005/50
+%X In the context of process management, risk has been considered mainly from a project management perspective. But risk is an inherent property of every business process and techniques are needed to identify, represent and analyse business process risks. The absence of such techniques is a concern because both operational risk mitigation and legal compliance depend on the sufficient identification of corporate risk. This paper addresses the topic of risk management in the context of business process management. We present a taxonomy of process- related risks and discuss how this taxonomy can be applied in the analysis and documentation of business processes. We demonstrate how a contemporary process modelling method can be extended to document process-related risks and their relationships with goals, other risks and processes. A critical administrative process in an university is used as an example.
+
+
+%T Countermeasures for Social Engineering-based Malware Installation Attacks
+%A Flores, Waldo Rocha
+%A Ekstedt, Mathias
+%B CONF-IRM 2013 Proceedings
+%D 2013
+%8 May  1, 2013
+%U https://aisel.aisnet.org/confirm2013/23
+%X Social engineering exploits vulnerabilities at different layers (i.e. technical, social layer) in an organizational defense structure. It is therefore important to understand how to defend against these attacks using a holistic defense approach including multiple countermeasures. The literature suggests a plethora of countermeasures, little research has however been done to assess their effectiveness in managing social engineering threats. In this paper we attempt to obtain a deeper understanding of how to defend against a type of social engineering attack that attempts to install malware on computers through e-mail or portable media. We explore commonly proposed countermeasures needed to prevent this type of attack, and if any dependencies between them exist. Through a combined method approach of surveying the literature and conducting semi-structured interviews with domain experts we identified a set of countermeasures that provide empirical input for future studies but could potentially also give organizations guidance on how to manage social engineering-based malware installation attacks.
+
+
+%T Sharing and Access Right Delegation for Confidential Documents: A Practical Solution
+%0 Journal Article
+%A Yiu, S.M.
+%A Yiu, S.W.
+%A Lee, L.
+%A Li, Eric
+%A Yip, Michael
+%B ACIS 2004 Proceedings
+%D 2004
+%8 December 31, 2004
+%U https://aisel.aisnet.org/acis2004/85
+%X This paper addresses a practical problem in Document Management Systems for which no existing solution is available in the market. To store confidential documents in a Document Management System, a common approach is to keep only the encrypted version of the documents to ensure the confidentiality of the contents. However, how to share these encrypted documents and how to delegate the access rights of these documents are not straightforward while these operations are common in most companies. In this paper, we discuss the issues related to this problem and provide a practical and easy-to-implement solution for solving the problem. Our solution has been shown to be feasible by a prototype implementation. We also show how to extend our solution to take advantage of the hierarchical structure of a company to make it more scalable. As a remark, this problem was initiated by a local company based on its actual needs to fulfil a set of business objectives and requirements.
+
+
+%T A Reference Model for Process-Oriented IT Risk Management
+%0 Journal Article
+%A Sackmann, Stefan
+%B ECIS 2008 Proceedings
+%D 2008
+%8 January  1, 2008
+%U https://aisel.aisnet.org/ecis2008/246
+
+
+%T Internal Audit Function response to ERP Systems Implementation
+%0 Journal Article
+%A Elbardan, Hany
+%A Ali, Maged
+%B AMCIS 2012 Proceedings
+%D 2012
+%8 July 29, 2012
+%U https://aisel.aisnet.org/amcis2012/proceedings/AccountingInformationSystems/15
+%X The internal audit function (IAF) importance has been highlighted by legislative and professional responses to various financial scandals. On the other hand, Enterprise Resource Planning (ERP) systems have institutional logics in controlling business process that pressure the IAF to change. Based on the institutional theory a conceptual framework is formulated to explore the IAF change as a response to ERP systems implementation, wherein ERP systems are considered as carrier of new institutional logics. Interpretive approach has been adopted by conducting an in-depth case study in a multinational organization in Egypt. Interviews with variety stakeholders were chosen as the primary data collection method besides careful examination of available documents. Data have been analyzed using directed content analysis based on coding the transcribed interviews. The study results are enhancing the understanding of the IAF change and provide additional lessons that could be useful in improving the IAF in organizations that implement ERP systems. Keywords  ERP, SAP, Internal Audit, Corporate Governance, Case Study, Interpretive, Egypt, Content Analysis.
+
+
+%T IT project governance in the public administration – Development of a checks-and-balances-model and it’s validation based on a case study
+%A Walser, Konrad
+%B AMCIS 2013 Proceedings
+%D 2013
+%8 May 30, 2013
+%U https://aisel.aisnet.org/amcis2013/StrategicUse/GeneralPresentations/23
+%X Further to literature references, and building inter alia of COBIT, this document provides an analysis of the control objectives in respect of IT project governance. It is clear from project management literature that insufficient emphasis is placed upon project governance in its own right and that currently governance in respect of larger projects, if indeed it is implemented at all, is enacted at too low a level within the hierarchy. This leads to the proposal of a dedicated project governance model oriented around corporate management which will manage via checks and balances between administration management, the department initiating a project, the finance department and project management. Leading on from this, an analysis will be undertaken of an IT project for the Swiss Federal Administration that got into serious trouble and was then cancelled. This analysis employs the 'checks and balances model' to examine the interactions in play within that project.
+
+
+%T Why Managers Tolerate Workarounds – The Role of Information Systems
+%0 Journal Article
+%A Röder, Nina
+%A Wiesche, Manuel
+%A Schermann, Michael
+%A Krcmar, Helmut
+%B AMCIS 2014 Proceedings
+%D 2014
+%8 May 30, 2014
+%U https://aisel.aisnet.org/amcis2014/AdoptionofIT/GeneralPresentations/14
+
+
+%T Information Security Governance: A Process Model and Pilot Case Study
+%A Wong, Chee Kong
+%A Maynard, Sean B.
+%A Ahmad, Atif
+%A Naseer, Humza
+%B ICIS 2020 Proceedings
+%D 2020
+%8 December 14, 2020
+%U https://aisel.aisnet.org/icis2020/cyber_security_privacy/cyber_security_privacy/3
+%X The responsibility for information security governance (ISG) is increasingly falling to boards of directors and executive management. Recent high-profile incidents such as the breaches of Equifax, Target and Yahoo have increased awareness of the fiduciary duty of care of the board and the expectations of executive management in protecting organizational information assets. Our review of past research shows practical guidance on implementing ISG relevant to the current dynamic security environment remains deficient, despite the large number of hypothetical frameworks and models proposed. In this paper we propose and develop a novel process model to explain how ISG can be practiced in financial organizations. We subsequently refine the model using a pilot case study and conclude with a brief discussion of our contributions and further work.
+
+
+%T Trading Partner Trust in Electronic Commerce Participation
+%0 Journal Article
+%A Ratnasingham, Pauline
+%A Kumar, Kuldeep
+%B ICIS 2000 Proceedings
+%D 2000
+%8 December 31, 2000
+%U https://aisel.aisnet.org/icis2000/56
+%X The growth of business-to-business e-commerce has highlighted the role of computer and communications technologies as well as inter-organizational trust in developing and maintaining business-to-business relationships. Despite the acknowledged importance of trust, only a limited amount of research exists and that examines the role of trust in these relationships. By investigating inter-organizational relationships andtrust in e-commerce, this study will enable us to identify factors leading to successful e-commerce participation (adoption and integration). Drawing on theories such as trust in business relationships, inter-organizational relationship theories, transaction cost economics, and resource dependency theory, this paper develops a conceptual model to examine the impact of trading partner trust in e-commerce participation. The model is currently being tested through multiple in-depth case studies. The findings of the case studies are expected to increase the awareness of e-commerce adopters and implementers about the importance of trading partner trust in e-commerce participation.
+
+
+%T Facing Legacy Information System Modernization in Scaling Agility in the Banking Industry: Preliminary Insights on Strategies and Non-technical Barriers
+%A Limaj, Everist
+%A Bernroider, Edward
+%A Ivanova, Maria
+%B ICIS 2020 Proceedings
+%D 2020
+%8 December 14, 2020
+%U https://aisel.aisnet.org/icis2020/is_development/is_development/1
+%X Banks are increasingly attempting to scale agility to speed-up innovation of digital applications. One major aspect of this challenge is the modernization of legacy information systems (IS), which still uphold core business operations accountable for profit generation. As a result, banks are struggling to apply a successful mechanism to address the required transition to a more agile organization at scale (“scaling agility”). This short paper builds on procedures of the general inductive approach, which we used to analyse data gathered from seven preliminary interviews with professionals in the banking industry concerned with scaling agility. In this context, we currently offer two main contributions. First, we describe strategies to either retain or replace legacy IS. Second, we present important non-technical barriers to legacy IS modernization. Additionally, this short paper presents a two-staged research design comprising a completed first stage and an on-going second stage, which is intended to conclude this study.
+
+
+%T Security in Modern Business: Security Assessment Model for Information Security Practices
+%0 Journal Article
+%A Tse, Daniel
+%B PACIS 2004 Proceedings
+%D 2004
+%8 December 31, 2004
+%U https://aisel.aisnet.org/pacis2004/119
+
+
+%T Analyzing Transaction Codes in Manufacturing for Compliance Monitoring
+%A Wang, Yuxin
+%A Hulstijn, Joris
+%A Tan, Yao-hua
+%B AMCIS 2018 Proceedings
+%D 2018
+%8 August 16, 2018
+%U https://aisel.aisnet.org/amcis2018/AccountingIS/Presentations/3
+%X Companies, especially manufacturers, are operating in increasing demands of variability and customizability nowadays. They are faced with a multitude of complex rules and regulations that must be complied with, as well as supply chain disruptions that threaten business. Smart manufacturers take advantage of advanced information and manufacturing technologies to enable flexibility in physical processes. However, existing information systems are far from being effective and efficient for compliance monitoring in service-oriented manufacturing. Failure to interface well with different information systems is still a general phenomenon among manufacturers, leading to problems such as delay of goods delivery or missing inventory. This research analyzes transaction codes in information systems using process modelling with simulation, validated by an intensive manufacturing case study. Design principles in IT systems for continuous monitoring and auditing in manufacturing are developed. The results contribute to enterprise systems configuration by proposing internal control measures based on IoT fault detection sensors.
+
+
+%T Fault Detection and Diagnosis for Compliance Monitoring in International Supply Chains
+%0 Journal Article
+%A Wang, Yuxin
+%A Tian, Yifu
+%A Teixeira, André
+%A Hulstijn, Joris
+%A Tan, Yao-Hua
+%B AMCIS 2016 Proceedings
+%D 2016
+%8 August 11, 2016
+%U https://aisel.aisnet.org/amcis2016/AccountingIS/Presentations/6
+%X Currently international supply chains are facing risks concerning faults in compliance, such as altering shipping documentations, fictitious inventory, and inter-company manipulations. In this paper a method to detect and diagnose fault scenarios regarding customs compliance in supply chains is proposed. This method forms part of a general approach called model-based auditing, which is based on a normative meta-model of the movement of money and goods or services. The modeling framework is proposed on compliance monitoring of supply chains with focus on information systems and compliance reporting tools. The innovation lies in the application and mapping of modeling techniques from dynamical systems engineering to business process analysis for audit and supervision purposes. Specifically, the application domain is where money, goods as well as information are transferred between international supply chain partners. A case study of a leading company in electronics manufacturing applying the model is analyzed.
+
+
+%T Navigating the Information Security Landscape: Mapping the Relationship Between ISO 15408:1999 and ISO 17799:2000
+%0 Journal Article
+%A Hoxey, Cynthia
+%A Shoemaker, Dan
+%B AMCIS 2005 Proceedings
+%D 2005
+%8 January  1, 2005
+%U https://aisel.aisnet.org/amcis2005/448
+%X It is crucial for corporations operating in a multinational economy to have a seamless understanding of the security process. For information assurance, ISO 15408:1999 (i.e. Common Criteria) and ISO 17799:2000 are the key standards, both of which are needed for implementing a global approach to security. They provide a definition of the necessary elements of the process as well as the basis for authoritative certification. However, the standards are entirely different in focus. The former is product-oriented while the latter is strategic and organizational. That divergence is an obstacle to creating secure enterprises and it causes disagreement about the meaning and value of the certifications. Mapping the relationship between ISO 15408 and ISO 17799 demonstrates their strengths and weaknesses and encourages organizations to use these standards effectively. The results of our study indicate that while there are overlaps between these two standards, there are also significant gaps.
+
+
+%T E-Customs Control Procedures Redesign Methodology: Model-Based Application
+%0 Journal Article
+%A Liu, Jianwei
+%A Baida, Ziv
+%A Tan, Yao-Hua
+%B ECIS 2007 Proceedings
+%D 2007
+%8 January  1, 2007
+%U https://aisel.aisnet.org/ecis2007/140
+
+
+%T Control Patterns - Bridging The Gap Between Is Controls And BPM
+%0 Journal Article
+%A Schaefer, Thomas
+%A Fettke, Peter
+%A Loos, Peter
+%B ECIS 2013 Completed Research
+%D 2013
+%8 July  1, 2013
+%U https://aisel.aisnet.org/ecis2013_cr/88
+
+
+%T Analysing The Governance, Risk And Compliance (Grc) Implementation Process: Primary Insights
+%0 Journal Article
+%A Spanaki, Konstantina
+%A Papazafeiropoulou, Anastasia
+%B ECIS 2013 Completed Research
+%D 2013
+%8 July  1, 2013
+%U https://aisel.aisnet.org/ecis2013_cr/58
+
+
+%T An Interdisciplinary Task-Based Activity for Teaching Internal Controls
+%0 Journal Article
+%A Marshall, Thomas E.
+%A Drum, Dawna M.
+%A Lambert, Sherwood L.
+%A Morris, Stevin
+%B Journal of Information Systems Education
+%D 2018
+%8 January  1, 2018
+%V 29
+%N 4
+%P 203-224
+%U https://aisel.aisnet.org/jise/vol29/iss4/2
+%X This case addresses the critical topic in education of developing students’ skills and capabilities associated with enterprise-level business intelligence systems and associated internal control concerns. The experiences of using a business intelligence,task-based activity in an interdisciplinary curriculum model are presentedand discussed. Pedagogically, the task-based activity enhances perceived learning for both accounting and IS disciplines indomain (internal controls and IS development), communication (comprehension and creation), and critical thinking skills. Additionally, students appreciate the realism and active learningassociated with the task-based activity delivered in an interdisciplinary curriculum model. The design of the task-based activity as a teaching resource allows other instructors, based on their requirements, to develop a lesson plan around using the activity as written, or focusing on the any of the many aspects of controls or technology presented.
+
+
+%T Design and Analysis of e-Government Control: the Green Corridor between Finland and Russia
+%A Liu, Jianwei
+%A Baida, Ziv
+%A Tan, Yao-Hua
+%A Korpela, Kari
+%B BLED 2007 Proceedings
+%D 2007
+%8 January  1, 2007
+%U https://aisel.aisnet.org/bled2007/18
+%X Confronted with the pressure of increased security threats and financial fraud, Customs administrations worldwide changed regulations and added restrictions to international trade in recent years. At the same time, governments also want to reduce the administrative burden for businesses in order to create an economically competitive zone. The EU is now implementing e-government ideas in new procedures. An important issue in designing new customs and trade procedures is whether the new procedures mitigate control risks. In this paper we present a model-based approach to support domain experts in investigating whether (redesigned) customs procedures mitigate control risks. We describe a methodological application of our “AAD”, or Actor-Activity-Document approach of control principles from accounting and auditing literature, to analyze trade procedures. As a proof of concept, we apply our “AAD” approach to the case of the Green Corridor between Finland and Russia.
+
+
+%T Dimensions and Operationalisations of IT Governance: A Literature Review and Meta-Case Study
+%A Novotny, Alexander
+%A Bernroider, Edward W.N.
+%A Koch, Stefan
+%B CONF-IRM 2012 Proceedings
+%D 2012
+%8 May  1, 2012
+%U https://aisel.aisnet.org/confirm2012/23
+%X This paper seeks to tackle the current confusion about the constituent dimensions of IT Governance (ITG) and inconsistent operationalisation approaches inhibiting advances in research and organisational ITG practice. Through a structured literature review of ranked high-quality publications augmented by a meta-case study with five underlying projects, we find nine distinct dimensions of ITG. The input-oriented dimensions Compliance Management, IT Investment Management and ITG Improvement have received little attention in earlier conceptualisations, while the more output-oriented dimensions Business/IT Alignment and Business Value Delivery have featured more often in related studies. Scope and application of ITG may depend on the organisational context and the intentional use, such as regulatory or strategic. Depending on the context, more research seems to be warranted to develop context-dependent measurement constructs of ITG that can be compared over studies.
+
+
+%T A Meta-Model for Real-Time Fraud Detection in ERP Systems
+%A Fuchs, Anna
+%A Fuchs, Kevin
+%A Gwinner, Fabian
+%A Winkelmann, Axel
+%B Hawaii International Conference on System Sciences 2021 (HICSS-54)
+%D 2021
+%8 January  4, 2021
+%U https://aisel.aisnet.org/hicss-54/st/cyber_threat_intelligence/2
+%X Fraud is a worldwide issue affecting almost every organization once in a time. Recent studies have shown that fraudulent behavior impacts up to 5 % of a companies annual revenue. Information systems (IS) have become an integral part of every modern organization. They contain the data foundation of the entire company and thereby supporting business processes and day-to-day transactions. Although an IS usually contains control mechanisms to prevent different kinds of fraud, these mechanisms look insufficient, considering the role of IS in many fraud cases. Since many cases from different companies have shown the need for an appropriate countermeasure, we want to develop an application that efficiently detects fraud and fraudulent behavior. Therefore, we conducted a structured literature review and a qualitative survey to apply the design science research (DSR) methodology and derive requirements for a fraud detection system (FDS). As a result, we present a meta-model for a FDS for enterprise resource planning (ERP) systems. We also provide application requirements, principles, and features that define areas for further research.
+
+
+%T Supporting Information Systems Analysis Through Conceptual Model Query – The Diagramed Model Query Language (DMQL)
+%0 Journal Article
+%A Delfmann, Patrick
+%A Breuker, Dominic
+%A Matzner, Martin
+%A Becker, Jörg
+%B Communications of the Association for Information Systems
+%D 2015
+%8 September  1, 2015
+%V 37
+%N 1
+%U https://aisel.aisnet.org/cais/vol37/iss1/24
+%X Analyzing conceptual models such as process models, data models, or organizational charts is useful for several purposes in information systems engineering (e.g., for business process improvement, compliance management, model driven software development, and software alignment). To analyze conceptual models structurally and semantically, so-called model query languages have been put forth. Model query languages take a model pattern and conceptual models as input and return all subsections of the models that match this pattern. Existing model query languages typically focus on a single modeling language and/or application area (such as analysis of execution semantics of process models), are restricted in their expressive power of representing model structures, and/or abstain from graphical pattern specification. Because these restrictions may hamper query languages from propagating into practice, we close this gap by proposing a modeling language-spanning structural model query language based on flexible graph search that, hence, provides high structural expressive power. To address ease-of-use, it allows one to specify model queries using a diagram. In this paper, we present the syntax and the semantics of the diagramed model query language (DMQL), a corresponding search algorithm, an implementation as a modeling tool prototype, and a performance evaluation.
+
+
+%T Measuring eTrust in Distributed Systems: General Concept and Application to Internet Voting
+%0 Journal Article
+%A Schryen, Guido
+%A Volkamer, Melanie
+%B BLED 2010 Proceedings
+%D 2010
+%8 January  1, 2010
+%U https://aisel.aisnet.org/bled2010/36
+%X Emerging digital environments and infrastructures, such as distributed services and computing services, have generated new options of communication, information sharing, and resource utilization in past years. Different distributed trust concepts are applied to increase trust in such systems. However, these concepts yield to rather complex architectures which make it difficult to determine which component or system needs to be trusted. This paper presents a novel trust measurement method for distributed systems which enables the t identification of weak points in the overall system architecture. The measurement method includes the specification of a formal trust language and its representation by means of propositional logic formulas. The applicability of the proposed concepts is demonstrated by conducting a case study on the Internet voting system that was used in the 2007 parliamentary elections in Estonia.
+
+
+%T AWA - Eine Architektur eines agentenbasierten Workflow-Systems
+%0 Journal Article
+%A Stormer, Henrik
+%A Knorr, Konstantin
+%B 5. Internationale Tagung Wirtschaftsinformatik 2001
+%D 2001
+%8 September 11, 2001
+%P 147-160
+%U https://aisel.aisnet.org/wi2001/13
+
+
+%T Collaborative Commerce
+%0 Journal Article
+%A Du, Timon C.
+%A Li, Eldon
+%A Wong, Jacqueline
+%B ICEB 2003 Proceedings (Singapore)
+%D 2003
+%8 December  9, 2003
+%U https://aisel.aisnet.org/iceb2003/75
+%X Following the evolution of electronic business, collaborative commerce uses information technology to achieve a closer integration and a better management of business relationships among parties including internal personnel, business partners and customers. Recently, market and globalisation competition, customer oriented service strategy and product complexity have pushed enterprises a step further on in collaborative commerce. In brief, collaborative commerce is (1) a collaborative technology – similar to workflow collaboration, (2) a customer-driven technology – similar to a pull-type supply chain, (3) a functionally-integrated technology – similar to concurrent engineering and (4) a businessdriven technology – similar to enterprise resource planning, for cross-organisational integration. The paper will illustrate the technologies and the critical success factors of collaborative commerce adoption.
+
+
+%T Modeling and Checking Business Process Compliance Rules in the Financial Sector
+%0 Journal Article
+%A Becker, Jörg
+%A Bergener, Philipp
+%A Delfmann, Patrick
+%A Weiss, Burkhard
+%B ICIS 2011 Proceedings
+%D 2011
+%8 December  6, 2011
+%U https://aisel.aisnet.org/icis2011/proceedings/projmanagement/12
+%X Assuring compliance of business processes with legal and internal regulations is crucial for financial institutions, as non-compliance may lead to severe financial and juridical penalties. To ensure business process compliance, process models have been established as a widely accepted basis for the design, documentation and control of the implementation of business process rules. Accordingly, in this paper, we introduce a semi-automatic business process compliance checking approach based on process models and related models. It relies on graph-based pattern matching, which makes it possible in contrast to existing approaches to define and check any possible type of business rule in any possible type of business process model or even other type of model. The approach is embedded in a design science research methodology.
+
+
+%T Design Considerations for Incorporating Flexible Workflow and Multi-AgentInteractions in Agent Societies
+%0 Journal Article
+%A Narendra, N. C.
+%B Journal of the Association for Information Systems
+%D 2002
+%8 March  1, 2002
+%V 3
+%N 1
+%U https://aisel.aisnet.org/jais/vol3/iss1/4
+%X In this paper, we present our conception of a Flexible Agent Society (FAS), an extension of the Contractual Agent Society (CAS) idea. Essentially, a FAS is a distributed information system modeling an agent society, providing agents with the ability to collaborate in order to meet certain common goals. In a FAS, unlike the CAS, the agents themselves have control over the workflow processesand multi-agent conversations that they need to execute in order to meet their common goals.
+
+
+%T Assessing Hospital Information Systems Processes: A Validation of PRISE Information Systems Success Model in Healthcare
+%0 Journal Article
+%A Ozkan, Sevgi
+%A Byakal, Nazife
+%A Sincan, Murat
+%B AMCIS 2008 Proceedings
+%D 2008
+%8 January  1, 2008
+%U https://aisel.aisnet.org/amcis2008/250
+%X Although there is limited research and evidence base, it is reasonable to expect that high quality information technology is an integral factor in the success of today’s health care sector. However, the health care sector is considered to be low level investor in Information Technology (IT) when compared to other sectors. There are studies that look at the sums spent on health IT as a basis for determining how effective the IT systems are. We support the idea that the effectiveness of IT systems, is not an exact measure and a more systematic approach needs to be taken when evaluating success of an IT system. In this study, we have evaluated an assessment method, which is, “Process Based Information Systems (IS) Effectiveness (PRISE)” based on a novel model of IS effectiveness in the health care sector. The results of our case series provide specific implications concerning the applicability of a general “IS assessment” approach, in the medical context.
+
+
+%T A Business Rules Management Reference Process for the Dutch Government
+%0 Journal Article
+%A Smit, Koen
+%A Zoet, Martijn
+%B PACIS 2017 Proceedings
+%D 2017
+%8 July  1, 2017
+%U https://aisel.aisnet.org/pacis2017/199
+%X Business Rules Management (BRM) is increasingly being applied in the governmental context. However, currently, many of those governmental institutions apply different BRM processes, but are expected to work together in their task of delivering products and services to citizens and companies in the Netherlands. An initiative from the Dutch government was started with the goal to investigate currently applied processes and develop a BRM reference process to promote cooperation. This paper elaborates upon the process of comparison of currently applied BRM processes and development of the BRM reference process for the Dutch government. The resulting BRM reference process consists of seven main processes with twenty sub-processes and a common vocabulary which can guide (Dutch) governmental organizations to design and implement their BRM solution as well as to achieve better cooperation due to increased commonality. In terms of future research, the emphasis should lie on more thorough validation, using quantitative research methods, but we argue that other industries should be explored as well.
+
+
+%T ACCOUNTING INFORMATION SYSTEMS AS INSTITUTIONAL CARRIERS: A CASE STUDY OF REGULATORY COMPLIANCE IN UK ASSET MANAGEMENT HOUSES
+%0 Journal Article
+%A Currie, Wendy
+%A Finnegan, David
+%A Gozman, Daniel
+%B ECIS 2011 Proceedings
+%D 2011
+%8 October  6, 2011
+%U https://aisel.aisnet.org/ecis2011/2
+%X Previously, governments have responded to the impacts of economic failures and consequently have developed more regulations to protect employees, customers, shareholders and the economic wellbeing of the state. Our research addresses how Accounting Information Systems (AIS) may act as carriers for institutionalised practices associated with maintaining regulatory compliance within the context of UK Asset Management Houses. The AIS was found to be a strong conduit for institutionalized compliance related practices, utilising symbolic systems, relational systems, routines and artefacts to carry approaches relating to regulative, normative and cultural-cognitive strands of institutionalism. Thus, AIS are integral to the development and dissipation of best practice for the management of regulatory compliance. As institutional elements are clearly present we argue that AIS and regulatory compliance provide a rich context to further institutionalism. Since AIS may act as conduits for regulatory approaches, both systems adopters and clients may benefit from actively seeking to codify and abstract best practices into AIS. However, the application of generic institutionalized approaches, which may be applied across similar organizations, must be tempered with each firm’s business environment and associated regulatory exposure. A balance should be sought between approaches specific enough to be useful but generic enough to be universally applied.
+
+
+%T INFORMATION FUSION IN CONTINUOUS ASSURANCE
+%0 Journal Article
+%A Perols, Johan
+%A Murthy, Uday
+%B ECIS 2011 Proceedings
+%D 2011
+%8 October  6, 2011
+%U https://aisel.aisnet.org/ecis2011/10
+%X We extend continuous assurance research by proposing a novel continuous assurance architecture grounded in information fusion research. Existing continuous assurance architectures focus primarily on methods of monitoring assurance clients’ systems to detect anomalous activities and have not addressed the question of how to process the detected anomalies. Consequently, actual implementations of these systems typically detect a large number of anomalies, with the resulting information overload leading to suboptimal decision making due to human information processing limitations. The proposed architecture addresses these issues by performing anomaly detection, aggregation and evaluation. Within the proposed architecture, artifacts developed in prior continuous assurance, ontology, and artificial intelligence research are used to perform the detection, aggregation and evaluation information fusion tasks. The architecture contributes to the academic continuous assurance literature and has implications for practitioners involved in the development of more robust and useful continuous assurance systems
+
+
+%T Exploring Continuous Assurance In Practice: Preliminary Insights
+%A Hardy, Catherine Anne
+%B PACIS 2011 Proceedings
+%D 2011
+%8 July  9, 2011
+%U https://aisel.aisnet.org/pacis2011/74
+%X The concept of continuous assurance is not new, with a history spanning close to three decades in various guises. Recently there has been renewed attention in the area due to compliance imperatives, trends in governance and risk, anti-fraud measures and technological advances. However significant uncertainty surrounds the practicalities of how continuous assurance may be effectively implemented into an organisation’s governance, risk and compliance (GRC) landscape for auditors and managers. The aim of this paper is to report on the first stage of a research study investigating the adoption and implementation of continuous assurance in an Australian company. A socio-material practice perspective is adopted and Power’s (2007) concept of organised uncertainty is explored to progress thinking in continuous assurance theory and practice. Key findings emerging from this study include the heterogeneous and fluid nature of continuous assurance, the duality of mobility involving system dependencies and audit independence, and the unanticipated usages and politics of information.
+
+
+%T Why Increased Use of IT can be Beneficial or Damaging? Insights from the Puzzle of IT Use and Managerial Expertise for Internal Controls
+%A Sambhara, Chaitanya
+%A Rai, Arun
+%A Xu, Sean Xin
+%B ICIS 2018 Proceedings
+%D 2018
+%8 December 13, 2018
+%U https://aisel.aisnet.org/icis2018/implement/Presentations/4
+%X Motivated by the puzzle that increased use of IT may not always be beneficial, and sometimes can even be damaging, we examine how the use of enterprise systems (ES) in a focal business process can be combined with competence in the business domain and the
+
+
+%T Examining the Antecedents of Sarbanes-Oxley Section 404 IT Control Weaknesses: An Empirical Study
+%0 Journal Article
+%A Hamdan, Basil
+%B ICIS 2011 Proceedings
+%D 2011
+%8 December  7, 2011
+%U https://aisel.aisnet.org/icis2011/proceedings/ISsecurity/11
+%X The current research draws on the agency theory, the IT governance literature, and the executive compensation literature to present a theory of the antecedents of IT control weaknesses as reported under Sections 404 of Sarbanes-Oxley Act. More specifically, this paper examines the association between two categories of governance mechanisms (IT governance mechanisms and IT executive incentive alignment mechanisms) and the disclosure of IT control weaknesses. As for the IT governance mechanisms, the study findings indicate that a lower likelihood of disclosing IT-related control weaknesses is associated with having IT executives with higher levels of structural and expert power and having audit committee and corporate governance committee members with IT expertise. As for the incentive alignment mechanisms, the results indicate that the lower the pay disparity between IT executives and business executives in the top management team, the lower the likelihood of disclosing IT controls weaknesses.
+
+
+%T A Risk Management Approach to Business Process Design
+%0 Journal Article
+%A Bai, Xue
+%A Padman, Rema
+%A Krishnan, Ramayya
+%B ICIS 2007 Proceedings
+%D 2007
+%8 December 31, 2007
+%U https://aisel.aisnet.org/icis2007/28
+
+
+%T Data Governance for Managing Data Quality in Process Mining
+%A Goel, Kanika
+%A Emamjome, Fahame
+%A ter Hofstede, Arthur
+%B ICIS 2021 Proceedings
+%D 2021
+%8 December 12, 2021
+%U https://aisel.aisnet.org/icis2021/governance/governance/9
+
+
+%T Structural Complexity and Data Breach Risk
+%A Tanriverdi, Hüseyin
+%A Roumani, Yaman
+%A Nwankpa, Joseph
+%B ICIS 2019 Proceedings
+%D 2019
+%8 November  6, 2019
+%U https://aisel.aisnet.org/icis2019/cyber_security_privacy_ethics_IS/cyber_security_privacy/36
+%X Strategic transactions can affect a firm’s structural complexity and data breach risk. Mergers and acquisitions increase data breach risk by increasing firm’s structural complexity through the addition of new businesses and new IT interlinkages among the firm’s existing and newly added businesses. Divestitures reduce firm’s data breach risk by reducing the firm’s structural complexity through the removal of some business units and associated IT interlinkages. Business partnerships increase firm’s structural complexity and data breach risk by opening up the firm’s IT environment to third party business partners and creating challenges in joint governance and control of the IT interface and interaction points of the partners. We find support for these ideas in a sample of 9784 U.S. firms during 2005-2017. The proposed theory explains how and why strategic initiatives increase firms’ data breach risks.
+
+
+%T Information Security Governance: A Case Study of the Strategic Context of Information Security
+%0 Journal Article
+%A Tan, Terrence
+%A Maynard, Sean
+%A Ahmad, Atif
+%A Ruighaver, Tobias
+%B PACIS 2017 Proceedings
+%D 2017
+%8 July 19, 2017
+%U https://aisel.aisnet.org/pacis2017/43
+%X Security governance influences the quality of strategic decision-making towards ensuring that investments in security are not wasted. Security governance involves a range of activities including adjusting organisational structures, designating roles and responsibilities, allocating resources, managing risks, measuring results, and gauging the adequacy of security audits and reviews. We draw on a case study to identify three security issues in an organisation around strategic context. These are (1) limited diversity in decision-making; (2) lack of guidance in corporate-level mission statements to security decision-makers; (3) a bottom-up approach to security strategic context development. We further argue that instead of an approach that is based on risk and controls, organisations should address objectives and strategies through developing depth in their security strategic context.
+
+
+%T A Framework for Integrating Sarbanes-Oxley Compliance into the Systems Development Process
+%0 Journal Article
+%A Mishra, Sushma
+%A Weistroffer, Heinz Roland
+%B Communications of the Association for Information Systems
+%D 2007
+%8 November 21, 2007
+%V 20
+%N 1
+%U https://aisel.aisnet.org/cais/vol20/iss1/44
+%X The Sarbanes-Oxley Act introduces a new set of requirements into software development. Corporations need to assess their internal control effectiveness for business processes to show compliance with the act. This paper proposes a conceptual framework for integrating Sarbanes-Oxley compliance needs into software development by mapping the activities of an established framework for internal controls to the various workflows of the systems development process. Theoretical and practical contributions are discussed and future research directions are explored.
+
+
+%T How Technology Use Drives Infobesity: An In-Depth Look at ERP Systems
+%0 Journal Article
+%A Malik, Ojaswi
+%A Karhade, Prasanna
+%A Kathuria, Abhishek
+%B PACIS 2021 Proceedings
+%D 2021
+%8 July 12, 2021
+%U https://aisel.aisnet.org/pacis2021/72
+%X Enterprise systems are a double-edged sword for organizations. The positive impact of implementing these systems on the firm’s performance has been widely researched. However, enterprise systems cannot be commended as the silver bullet for improving the firm’s business operations. Past literature has identified that enterprise systems can reduce flexibility and increase rigidity within the organization. In this paper, we posit that enterprise systems are one of the biggest sources of infobesity in organizations. We use a research design that integrates inductive analytics and abductive discovery to uncover the interaction of multi-level antecedents of infobesity in organizations. Our findings reveal that a greater cumulative use of ERP and SCM systems exposes firms to a high degree of infobesity. These findings reveal that enterprise systems further complicate the already increasingly complex information environment of the organization. We ultimately discuss the implications of our findings on the firm’s innovation activity.
+
+
+%T Information Security Policies: A Content Analysis
+%0 Journal Article
+%A Lopes, Isabel Maria
+%A Sá-Soares, Filipe de
+%B PACIS 2012 Proceedings
+%D 2012
+%8 July 15, 2012
+%U https://aisel.aisnet.org/pacis2012/146
+%X Among information security controls, the literature gives a central role to information security policies. However, there is a reduced number ofempirical studies about the features and components of information security policies. Thisresearch aims to contribute to fill this gap. It presents a synthesis of the literature on information security policies content and it characterizes 25 City Councils information security policy documents in terms of features and components. The content analysis research technique was employed to characterize the information security policies. The profile of the policies is presented and discussed and propositions for future work are suggested.
+
+
+%T Corporate Strategy Changes and Information Technology Control Effectiveness in Multibusiness Firms
+%0 Journal Article
+%A Tanriverdi, Hüseyin
+%A Du, Kui
+%B Management Information Systems Quarterly
+%D 2020
+%8 December  1, 2020
+%V 44
+%N 4
+%P 1573-1617
+%U https://aisel.aisnet.org/misq/vol44/iss4/6
+%X We develop a theory to explain why, how, and under what conditions corporate strategy changes negatively affect a multibusiness firm’s ability to design and effectively operate IT controls, and lead to the emergence of IT control material weaknesses (IT MW).  Corporate strategy changes such as diversification, mergers and acquisitions (M&A), and divestitures alter a firm’s complicatedness by adding or removing business units.  These changes can also affect the firm’s complexity by altering the degree of interrelatedness among the firm’s businesses.  We hypothesize that corporate strategy changes that affect the firm’s complexity are more likely to increase IT MW than those that only affect the firm’s complicatedness.  Complexity-altering corporate strategy changes are likely to disrupt all three types of IT controls:  IT controls over technology, IT controls over business processes, and IT controls over people’s behaviors.  We hypothesize that the changes are likely to disrupt the IT controls over people much more than IT controls over technology or business processes.  Complexity-altering corporate strategy changes are also likely to affect the design effectiveness of the IT controls much more than the operating effectiveness of the IT controls.  We find support for these ideas in a longitudinal study of 2,477 publicly traded U.S. firms.  Results also indicate that the internal control material weaknesses (IC MW) that emerge following corporate strategy changes are primarily due to IT MW rather than non-IT MW.  The proposed theory and the findings have important implications for research and practice.
+
+
+%T Factors Affecting The Adoption Of Cloud Computing: An Exploratory Study
+%0 Journal Article
+%A Morgan, Lorraine
+%A Conboy, Kieran
+%B ECIS 2013 Completed Research
+%D 2013
+%8 July  1, 2013
+%U https://aisel.aisnet.org/ecis2013_cr/124
+
+
+%T THE ROLE OF RULES-BASED COMPLIANCE SYSTEMS IN THE NEW EU REGUALTORY LANDSACPE: PERSPECTIVES OF INSTITUTIONAL CHANGE AND AGENCY
+%0 Journal Article
+%A Gozman, Daniel
+%A Currie, Wendy
+%B ECIS 2012 Proceedings
+%D 2012
+%8 May 15, 2012
+%U https://aisel.aisnet.org/ecis2012/231
+%X The financial crisis of 2007-2009 and the subsequent reaction of the G20 have created a new global regulatory landscape. Within the EU, change of regulatory institutions is ongoing. The research objective of this study is to understand how institutional changes to the EU regulatory landscape may affect corresponding institutionalized operational practices within financial organizations and to understand the role of agency within this process. Our motivation is to provide insight into these changes from an operational management perspective, as well as to test Thelen and Mahoney?s (2010) modes of institutional change. Consequently, the study researched implementations of an Investment Management System with a rules-based compliance module within financial organizations. The research consulted compliance and risk managers, as well as systems experts. The study suggests that prescriptive regulations are likely to create isomorphic configurations of rules-based compliance systems, which consequently will enable the institutionalization of associated compliance practices. The study reveals the ability of some agents within financial organizations to control the impact of regulatory institutions, not directly, but through the systems and processes they adopt to meet requirements. Furthermore, the research highlights the boundaries and relationships between each mode of change as future avenues of research.
+
+
+%T Theory of Workarounds
+%0 Journal Article
+%A Alter, Steven
+%B Communications of the Association for Information Systems
+%D 2014
+%8 March  1, 2014
+%V 34
+%N 1
+%U https://aisel.aisnet.org/cais/vol34/iss1/55
+%X Although mentioned frequently in the organization, management, public administration, and technology literatures, workarounds are understudied and undertheorized. This article provides an integrated theory of workarounds that describes how and why workarounds are created. The theory covers most types of workarounds and most situations in which workarounds occur in operational systems. This theory is based on a broad but useful definition of workaround that clarifies the preconditions for the occurrence of a workaround. The literature review is organized around a diagram that combines the five “voices” in the literature of workarounds. That diagram is modeled after the diagram summarizing Orton and Weick’s [1990] loose coupling theory, which identified and combined five similar voices in the literature about loose coupling. Building on that basis, the theory of workarounds is a process theory driven by the interaction of key factors that determine whether possible workarounds are considered and how they are executed. This theory is useful for classifying workarounds and analyzing how they occur, for understanding compliance and noncompliance to methods and management mandates, for incorporating consideration of possible workarounds into systems analysis and design, and for studying how workarounds and other adaptations sometimes lead to larger planned changes in systems.
+
+
+%T Challenges and Best Practices in Information Security Management
+%0 Journal Article
+%A McLaughlin, Mark-David
+%A Gogan, Janis
+%B MIS Quarterly Executive
+%D 2018
+%8 August 30, 2018
+%V 17
+%N 3
+%U https://aisel.aisnet.org/misqe/vol17/iss3/6
+%X Based on an extensive review of information security studies published in influential IS journals, this article provides insights that can help organizations implement strong policies and practices to prevent most information security incidents, and to recover from those that do occur. We discuss the challenges of information security management and identify best practices for addressing them. Our recommendations will help organizations accurately and quickly detect the breaches that will inevitably occur, respond effectively to them and learn from them.Click here for free presentation slides (pdf)
+
+
+%T Balancing Digital Innovation and Cybersecurity Capabilities through Organizational Ambidexterity – An Investigation in the Automotive Industry
+%A Heierhoff, Sebastian
+%A Reher, Alina
+%B Hawaii International Conference on System Sciences 2022 (HICSS-55)
+%D 2022
+%8 January  3, 2022
+%U https://aisel.aisnet.org/hicss-55/os/innovation/5
+%X An organization’s digital innovation capability, i.e., its ability to leverage (technological) trends and developments, is not only associated with opportunities but also entails challenges and risks. Various incidents underline the importance of cybersecurity in this context. While organizations in the automotive industry have recognized both as inevitable, they perceive a trade-off between their innovation and cybersecurity capabilities. As digital innovations are often prestigious, they might prioritize factors like time-to-market and postpone cybersecurity to development and operations. To identify factors enabling organizations to balance the ambidextrous requirements of the two, we conducted an interview study in the automotive industry. Our findings indicate that organizational ambidexterity enabled by strategic and operational elements can minimize the trade-off and the associated risks, with implications for both theory and practice.
+
+
+%T The Effect of ERP System Workarounds on Organizational Control: An interpretivist case study
+%0 Journal Article
+%A Ignatiadis, Ioannis
+%A Nandhakumar, Joe
+%B Scandinavian Journal of Information Systems
+%D 2009
+%8 December 31, 2009
+%V 21
+%N 2
+%U https://aisel.aisnet.org/sjis/vol21/iss2/3
+%X Organizations installing an Enterprise Resource Planning (ERP) system often seek to gain better control over their data and operations. Nevertheless, studies indicate that this aim often fails to materialize. Although the literature has looked into the factors that may lead to a successful (or conversely unsuccessful) ERP implementation, it has largely overlooked the actual use of the system after its initial implementation. While implemen- tation outcomes and actual patterns of system use are closely interrelated, close exami- nation of system use in-situ can reveal ways in which users can use the system to cause a decrease in organizational control. This is particularly the case when users create worka- rounds or try to bypass controls embedded within the system. This paper examines such workarounds and their impact on organizational control, using an interpretive case study and through the conceptual lenses of human and machine agencies.
+
+
+%T IS Capabilities For Supporting Post Crisis Regulatory Compliance
+%0 Journal Article
+%A Gozman, Daniel
+%A Currie, Wendy
+%B UK Academy for Information Systems Conference Proceedings 2013
+%D 2013
+%8 March 19, 2013
+%U https://aisel.aisnet.org/ukais2013/10
+%X The financial crisis of 2007-2009, has precipitated large scale regulatory change. Financial organizations are faced with implementing new regulations of considerable breadth and depth. Firms are faced with engaging in complex and costly change management programs at a time when profits are diminished. Furthermore, investors are becoming increasingly focused on compliance are seeking to ensure that organizations can demonstrate robust compliance practices as part of their due diligence process .The role of IS in underpinning stable, is paramount. IS allows the stable and consistent controls for meeting regulations in order to ensure long term effective compliance. Consequently, our study explores the IS capabilities which support the post crisis regulatory landscape. We identify eight key capabilities: Managing Internal Controls, Measuring Monitoring and Reporting Transactions, IS Development and Procurement, Managing Third Parties, Sharing and Selecting Best Practice, IS Leadership, Data Management and Enabling Cultural Change.
+
+
+%T Critical Success Factors Affecting Implementation of Cloud ERP Systems: A Systematic Literature Review with Future Research Possibilities
+%A Huang, Qian
+%A Rahim, Mahbubur
+%A Foster, Susan
+%A Anwar, Misita
+%B Hawaii International Conference on System Sciences 2021 (HICSS-54)
+%D 2021
+%8 January  4, 2021
+%U https://aisel.aisnet.org/hicss-54/in/diffusion_of_ict/2
+%X The implementation of Cloud Enterprise Resource Planning systems (Cloud ERP) is always challenging, which requires a variety of risks to be taken into consideration to ensure the success of the implementation. The assessment of Critical Success Factors (CSFs) in on-premise ERP implementations has been well documented but this research has not carried through to Cloud ERP implementations. Therefore, the contribution of this paper is to provide research and practice with identification and analysis of 35 CSFs through a systematic literature review. Drawing from the literature, we found security, project management, and communication are the top three widely cited CSFs during implementation. We also identify critical gaps in current research, such as inconclusiveness of findings related to CSFs and a lack of discussion on the nature of criticality of those CSFs. Furthermore, the attributes of CSFs are investigated in order to explore CSFs in a more logical and systematical way.
+
+
+%T An Extended TOE Framework for Cybersecurity-adoption Decisions
+%0 Journal Article
+%A Wallace, Steven
+%A Green, Karen Y.
+%A Johnson, Catherine
+%A Cooper, Joseph
+%A Gilstrap, Collin
+%B Communications of the Association for Information Systems
+%D 2020
+%8 November  9, 2020
+%V 47
+%N 1
+%U https://aisel.aisnet.org/cais/vol47/iss1/51
+%X High-profile cybersecurity incidents, such as the 2019 Capital One data breach and the 2017 Equifax breach, have engendered doubts about firms’ trustworthiness and resulted cybersecurity becoming a critical risk factor firms must address. Breaches can precipitate extreme consequences for affected firms’ managers, shareholders, and customers. Unsurprisingly, data breaches represent IT leaders’ biggest concern. In this paper, we report on a qualitative field study in which we interviewed C-level executives and IT consultants to investigate cybersecurity concerns and factors that influence adoption decisions for cybersecurity. We found that the traditional technology-organization-environment (TOE) framework does not fully capture the range of issues in the cybersecurity context. Thus, we propose a new extended TOE framework that pertains specifically to cybersecurity-adoption decisions. This extended framework includes new dimensions, cyber catalysts, practice standards, and new factors under the traditional technology, organization, and environment dimensions.
+
+
+%T A Dynamic Query-Rewriting Mechanism for Role-Based Access Control in Databases
+%0 Journal Article
+%A Jarman, Jay
+%A McCart, James A,
+%A Berndt, Donald
+%A Ligatti, Jay
+%B AMCIS 2008 Proceedings
+%D 2008
+%8 January  1, 2008
+%U https://aisel.aisnet.org/amcis2008/134
+%X Although Role-Based Access Control (RBAC) is a common security model currently, it has not been systematically applied in databases. In this paper, we propose a framework that enforces RBAC based on dynamic query rewriting. This framework grants privileges to data based on an intersection of roles, database structures, content, and privileges. All of this is implemented at the database level, which also offers a centralized location for administering security policies. We have implemented the framework within a healthcare setting.
+
+
+%T Mindful Routines in the Face of Fraud
+%0 Journal Article
+%A Rohde, Max
+%A Peko, Gabrielle
+%A Sundaram, David
+%B AMCIS 2016 Proceedings
+%D 2016
+%8 August 11, 2016
+%U https://aisel.aisnet.org/amcis2016/AccountingIS/Presentations/5
+%X The growing threat of financial reporting and employee fraud has called for increased security standards and regulations, focussing on effective internal controls. This requires organizations to demonstrate that their resources are directed, monitored and measured appropriately, with internal controls in place to prevent and detect fraud. The objective of this paper is to explore possible ways in which the shortcomings of various modelling approaches focussed on fraud representation and prevention can be addressed by an open, distributed, flexible, context-rich and sustainable repository of business process models. We develop a theoretical framework, which embeds a number of important theories in regard to organizational work. In particular, we use the concept of mindful organizational routines to guide our investigation. We conclude the paper with illustrations of our framework through four possible cases of fraud in procurement.
+
+
+%T ALIGNMENT OF BUSINESS PROCESS MANAGEMENT AND
+BUSINESS RULES
+%0 Journal Article
+%A Zoet, Martijn
+%A Versendaal, Johan
+%A Ravesteyn, Pascal
+%A Welke, Richard
+%B ECIS 2011 Proceedings
+%D 2011
+%8 October  6, 2011
+%U https://aisel.aisnet.org/ecis2011/34
+%X Business process management and business rules management both focus on controlling business activities in organizations. Although both management principles have the same focus, they approach manageability and controllability from different perspectives. As more organizations deploy business process management and business rules management, this paper argues that these often separated efforts should be integrated. The goal of this work is to present a step towards this integration. We propose a business rule categorization that is aligned to the business process management lifecycle. In a case study and through a survey the proposed rule categories are validated in terms of mutual exclusivity and completeness. The results indicate the completeness of our main categorization and the categories’ mutual exclusivity. Future research should indicate further refinement by identifying rule subcategories.
+
+
+%T Evaluating A Uml-Based Modeling Framework For Process-Related Security Properties:  A Qualitative Multi-Method Study
+%0 Journal Article
+%A Schefer-Wenzl, Sigrid
+%A Sobernig, Stefan
+%A Strembeck, Mark
+%B ECIS 2013 Completed Research
+%D 2013
+%8 July  1, 2013
+%U https://aisel.aisnet.org/ecis2013_cr/134
+
+
+%T Organizational IT Knowledge as a Predictor of IT Control Quality: An Empirical Investigation
+%A Hamdan, Basil
+%B SAIS 2017 Proceedings
+%D 2017
+%8 March 25, 2017
+%U https://aisel.aisnet.org/sais2017/20
+%X The purpose of this study is to examine whether or not the presence (absence) of IT knowledge gap between the Board of Directors (BoD) and the Senior Management Team (SMT) on one hand the Information Systems Management Team (ISMT) on the other hand affects IT control quality (ITCQ) under the Sarbanes-Oxley Act. The study results show that having IT expertise in the audit and corporate governance committee is associated with a lower likelihood of reporting poor ITCQ. Contrary to what is hypothesized, the association between the IT expertise of the SMT and IT control quality was insignificant. This research, through its robust theoretical foundation, holds the promise of increasing our understanding of the antecedents of ITCQ; an understanding that is critical to achieving effective IT control over financial reporting.
+
+
+%T KPMG IT Audit Overview and Introduction: A Classroom Exercise
+%A Cole, Carey
+%B AMCIS 2017 Proceedings
+%D 2017
+%8 August 10, 2017
+%U https://aisel.aisnet.org/amcis2017/ISEducation/Presentations/33
+%X This IT auditing case study was created with KPMG and designed for students in an introductory MIS or CIS course. However, it could be utilized for most university students with a general understanding of IT systems. The lecture materials and case study are designed to provide an introduction to the IT auditing process and to challenge teams to examine process documentation and identify relevant IT controls.
+
+
+%T Learning Experience with Virtual Worlds
+%0 Journal Article
+%A Wagner, Christian
+%B Journal of Information Systems Education
+%D 2008
+%8 January  1, 2008
+%V 19
+%N 3
+%P 263-266
+%U https://aisel.aisnet.org/jise/vol19/iss3/1
+%X Virtual worlds create a new opportunity to enrich the educational experience through media-rich immersive learning. Virtual worlds have gained notoriety in games such as World of Warcraft (WoW), which has become the most successful online game ever, and in ‘general purpose’ worlds, such as Second Life (SL), whose participation levels (more than 10 million users) and economic opportunities (creating millionaires), have attracted considerable news media attention (e.g., Forbes, Newsweek, Wired, Businessweek). This article offers a description of the opportunity in general, and of a specific application case that illustrates the value, as well as implementation challenges.
+
+
+%T How Secure Is Blockchain? Extending the Protection Motivation Theory with Trust
+%A Degirmenci, Kenan
+%A Barros, Alistair
+%B AMCIS 2021 Proceedings
+%D 2021
+%8 August  9, 2021
+%U https://aisel.aisnet.org/amcis2021/adopt_diffusion/adopt_diffusion/8
+%X In light of the ongoing paradigm shift of blockchain technology from trusting people to trusting algorithms, we investigate the role of trust in blockchain security behaviors. In this research-in-progress paper, we draw on the protection motivation theory (PMT) and develop a conceptual definition of the construct of trust in blockchain. We situate PMT in a blockchain context to scrutinize security issues with the blockchain technology, such as cryptocurrency hacking risks or data loss, which hamper the widespread adoption of blockchain. We expect that our study will provide implications regarding the role of trust in blockchain, which will help to advance the understanding of blockchain security behaviors from a protection motivation perspective.
+
+
+%T Information Security Policy Quality and Enforcement: Is Compliance a Solution to Fraud
+%A Brown, Dennis
+%A Zafar, Humayun
+%B AMCIS 2017 Proceedings
+%D 2017
+%8 August 10, 2017
+%U https://aisel.aisnet.org/amcis2017/InformationSystems/Presentations/25
+%X The purpose of this research is to examine how information security policy compliance mediates organizational fraud levels in a sampling of small to medium-size firms. We will examine if (1) organizations with low (high) quality information security policy experience lower (higher) information security policy compliance; (2) organizations with strong (weak) enforcement of the existing policy experience lower (higher) levels of information security policy compliance; (3) if there is any significant interaction effect between information security policy quality and enforcement and (4) if perceived information security policy compliance is inversely related to reported organizational fraud.  Completion of this research will accomplish several key objectives. It will approach the fraud problem from a totally different perspective that has not been studied previously. This research may inform current findings regarding the potential direct and indirect effects of information security noncompliance on organizational fraud. The study will also expand the body of organizational fraud knowledge by giving insights into the motivation leading to compliance versus noncompliance decisions encountered by employees in various organizational settings.
+
+
+%T Action Research: Researching with Industry
+%0 Journal Article
+%A Stewart, Glenn
+%A Gable, Guy
+%B 5. Internationale Tagung Wirtschaftsinformatik 2001
+%D 2001
+%8 September 11, 2001
+%P 957-964
+%U https://aisel.aisnet.org/wi2001/69
+
+
+%T A Vulnerability Prediction and Risk Assessment Process for the Open Source Xen Hypervisor
+%0 Journal Article
+%A Shahzad, Abid
+%A Litchfield, Alan T.
+%B PACIS 2020 Proceedings
+%D 2020
+%8 June 22, 2020
+%U https://aisel.aisnet.org/pacis2020/173
+%X This paper presents a vulnerability prediction and risk assessment process developed with the open source Xen hypervisor. Xen provides a very large installation base in leading data centres worldwide. The vulnerability prediction process predicts the number of unknown vulnerabilities. The process allows organizations to identify and quantify risks they could face after moving their critical services to cloud virtual infrastructure. Organizations can determine the adequacy of their security controls to eliminate or reduce risks to Xen by considering the security control recommendations provided in this paper. This process will be quite useful for the organizations that are planning to use Xen as their core hypervisor for a private cloud. The process is evaluated by applying it to Apache HTTP and Squid Proxy servers to demonstrate the generalizability and applicability of the process to open source software packages. Design science research is used as the main methodology for this research.
+
+
+%T Database Intrusion Detection: Defending Against the Insider Threat
+%0 Journal Article
+%A Barton, Kevin
+%B AMCIS 2012 Proceedings
+%D 2012
+%8 July 29, 2012
+%U https://aisel.aisnet.org/amcis2012/proceedings/ISSecurity/10
+%X Not only are Databases an integral and critical part of many information systems, they are critical information assets to many business enterprises. However, the network and host intrusion detection systems most enterprises use to detect attacks against their information systems cannot detect transaction-level attacks against databases. Transaction-level attacks often come from authorized users in the form of inference, query flood, or other anomalous query attacks. Insider attacks are not only growing in frequency, but remain significantly more damaging to businesses than external attacks. This paper proposes a database intrusion detection model to detect and respond to transaction-level attacks from authorized database users.
+
+
+%T Integrating risks in business process models with value focused process engineering
+%0 Journal Article
+%A Neiger, D
+%A Churilov, L
+%A Muehlen, Michael zur
+%A Michael
+%B ECIS 2006 Proceedings
+%D 2006
+%8 January  1, 2006
+%U https://aisel.aisnet.org/ecis2006/122
+%X As enterprise systems develop, the integration of various business management dimensions becomes increasingly important. However, historical disciplinary boundaries between information systems and management sciences can obstruct this path to integration. For example, risk management is generally considered as a business process within process engineering, while in the context of management sciences risk is treated as a threat to business objectives that needs to be minimized. Both views are essential for a complete approach to identifying, understanding and managing risks in order to optimally meet business requirements. In this paper, we address the need for a holistic business view of risk management in the enterprise systems space by drawing on the strengths of the respective disciplines and identifying links between their complementary views of risk, which enables us to integrate these apparently diverging views. Through the application of value-focused process engineering principles to risk management models, we develop a framework that extends the capabilities of existing enterprise systems and enables risk-oriented process management which incorporates a multi-disciplinary view of risk. The proposed framework is illustrated in the context of a critical administrative process in a university to demonstrate the practical application of and the resulting benefits from the use of this framework.
+
+
+%T Securing Serverless Computing
+%0 Journal Article
+%A Patnayakuni, Ravi
+%A Patnayakuni, Nainika
+%B WISP 2018 Proceedings
+%D 2018
+%8 December 13, 2018
+%U https://aisel.aisnet.org/wisp2018/15
+%X Serverless applications are based on a microservices-oriented system design, often consisting of several services, each with distinct functions that are composed and orchestrated to deliver specific functionality. The architecture allows firms to build and deploy software applications without consideration towards provisioning or maintaining the underlying infrastructure. The novelty of the architecture and its inherent characteristics present new challenges for cybersecurity. We discuss the security imperatives of this emerging cloud computing software paradigm. We then identify some of the approaches and practices that can be used by organizations to mitigate security threats in the context of serverless computing.
+
+
+%T The Sieve of Overspecialization
+%0 Journal Article
+%A Bonner, William (Bill)
+%B AMCIS 2008 Proceedings
+%D 2008
+%8 January  1, 2008
+%U https://aisel.aisnet.org/amcis2008/126
+%X Using Ulrich Beck‟s focus on experts as the source of unintended risks in society, this paper speculates on the consequences of linking the concepts of privacy and security too closely. The argument is made that this constructed linkage attracts separate and fairly narrow fields of technical expertise that focus on a very limited definition of the problem and hence the potential solutions derived. It is argued that this expertise focuses on small “p” privacy (data and rules about data) and that a failure to address privacy substantively understates the potential costs of security failures and that, paradoxically, a serious engagement with concept of the privacy may lead to more effective attention on data and its security.
+
+
+%T Activity Theory Guided Role Engineering
+%0 Journal Article
+%A Gupta, Manish
+%B AMCIS 2008 Proceedings
+%D 2008
+%8 January  1, 2008
+%U https://aisel.aisnet.org/amcis2008/90
+%X Roles are convenient and powerful concept for facilitating access to distributed systems and enforcing access management polices. RBAC is one the most widely used role engineering models in enterprises. Several threats arise due to insecure and inefficient design of roles when social and interaction dynamics in an organizational setting are ignored. Activity theory is one of the most applied and researched theories in context of understanding human actions, interactions with environments and dynamics against different social entities. The paper, first, presents overview of role-engineering and activity theory. Then the paper presents different methods in which activity theory can be applied for efficient and secure role-engineering processes. A case study, carried out at a US-based midsize financial institution, is also presented to demonstrate 1) how traditional role-engineering processes give way to threats and 2) how using activity theory models (2 used in this paper) can mitigate risks in role-engineering process.
+
+
+%T Importance of IT Controls for Casino Slot Machines:           A Case of Social Engineering and Software Based Fraud
+%0 Journal Article
+%A Kleist, Virginia
+%A Dull, Richard
+%A Morris, Bonnie
+%B AMCIS 2012 Proceedings
+%D 2012
+%8 July 29, 2012
+%U https://aisel.aisnet.org/amcis2012/proceedings/AccountingInformationSystems/20
+%X In this paper, we present a case of a technology based fraud perpetrated in slot machines via social engineering and software control overrides, yielding a $420,000 plus potential loss to a regionally based casino.  Casinos are an alluring industry for technology-based fraudulent activity in that systems are heavily cash based, yielding the potential for innovative fraudsters to circumvent controls to commit scams, cons, fraud and outright theft.  This case is illustrative of the need for effective IT auditing and control implementations in the multifaceted casino business environment. Here, we discuss the background to the case, casino operations in general, fraud at casinos, general as well as IT-specific controls for casinos, and cover how a slot machine works.  Finally, we present the specific case of the Birdland  Casino slot machine scam, and examine the implications of this fraud in terms of an analysis of general IT controls.
+
+
+%T Structuration analysis of accounting-based ERP system organizational change
+%A Hassan, Mostafa
+%A Mouakket, Samar
+%B AMCIS 2018 Proceedings
+%D 2018
+%8 August 16, 2018
+%U https://aisel.aisnet.org/amcis2018/AccountingIS/Presentations/1
+%X Using a framework informed by Giddens (1984, 1990) notions of trust, agentsâ€™ reflexivity, ontological security, routines, dialectical of control and power, the study explores the political behaviors associated with the implementation of an Enterprise Resource Planning (ERP) system introduced in a public service organization operating in an emerging country â€“ the United Arab Emirates (UAE). The study examines how organizational membersâ€™ political behavior emanates during the implementation of an accounting-based ERP system. Data collection methods included semi-structured interviews, documentary evidence, and personal observation. The case study evidence shows that the accounting-based ERP system facilitated organizational membersâ€™ reflexivity and critical reflection in re-assessing the pre and post ERP system ways of thinking. The findings also illustrate how trust (whether personal trust or system trust) plays a pivotal role in reinforcing the organisation power to change, and how the mistrust has become a source of power hindering organisational change. This power-based trust adds to Fincham (1992) and Hardy (1996) frameworks of power since they do not underscore the power of â€œtrust and/or mistrustâ€ and the antecedents of such â€œtrust and/or mistrustâ€.
+
+
+%T Train to Work Effectively in Virtual Environments: A Framework of Virtual Team Competency
+%0 Journal Article
+%A Chen, Fang
+%A Sager, James
+%B AMCIS 2007 Proceedings
+%D 2007
+%8 December 31, 2007
+%U https://aisel.aisnet.org/amcis2007/104
+
+
+%T Social Network Theoretic Framework for Organizational Social Engineering Susceptibility Index
+%0 Journal Article
+%A Gupta, Manish
+%A Sharman, Raj
+%B AMCIS 2006 Proceedings
+%D 2006
+%8 December 31, 2006
+%U https://aisel.aisnet.org/amcis2006/408
+
+
+%T IT Innovation in China: Industry and Business Capabilities
+%A Gillon, Kirstin
+%A Hodgkinson, Robert
+%A Lee, Anyu
+%A Mao, Ji-Ye
+%A O’Connor, Neale
+%A Wright, Ning
+%A Zhang, Jerry
+%B Communications of the Association for Information Systems
+%D 2012
+%8 June  1, 2012
+%V 30
+%N 1
+%U https://aisel.aisnet.org/cais/vol30/iss1/24
+%X China is investing heavily in leading-edge and innovative information technologies to support its continuing economic growth. At the same time, Chinese businesses increasingly need to innovate with IT to create competitive difference and expand internationally. However, to what extent has China developed the capabilities to develop IT innovations and adopt them successfully? This 2011 ICIS panel session built a rich picture of maturity, skills, and management processes concerning IT adoption and innovation, bringing together diverse perspectives from research and practice. By drawing on experience from Europe and the U.S., as well as China itself, it also reflected on distinct aspects of the Chinese business environment and the impact of these on IT.
+
+
+%T Biometric-Enabled Solutions in Banking Environments – A Case Study
+%0 Journal Article
+%A Delpachitra, Indika
+%A Venkatraman, Sitalakshmi
+%B PACIS 2007 Proceedings
+%D 2007
+%8 January  1, 2007
+%U https://aisel.aisnet.org/pacis2007/150
+%X During the last two decades, the extensive utilisation of advanced Information Systems and the Internet have revolutionised the operations of the banking industry leading to vastly improved customer services, streamlined business operations and in particular profitability with reduced unit costs. On the other hand, security breaches and transaction fraud have been on the rise more recently, warranting a highly secure banking environment. Biometric technology appeals to many banking organisations as a near perfect solution to such security threats. However, due to the close association of biometrics with human physical and behavioural aspects, such technologies pose a multitude of social, ethical and environmental challenges. This paper analyses the security models of current Information Systems and identifies the biometric elements which could contribute to a more secure banking environment. In this research work, we have endeavoured to uncover the tangible and intangible issues pertaining to implementing biometric solutions in the New Zealand banking context. We discuss the underlying success factors of biometric solutions and describe a pilot study: a biometric-enabled security project called Bio-Sec in a large banking organisation in New Zealand. Through the study, we have found that while coping with the technology issues of incorporating biometrics into the existing information systems is important, formulating a viable security plan that addresses customer privacy fears, human tolerance levels, organisational change and legal issues is the main success factor.
+
+
+%T STRATEGIES IN SECURING THE SOCIAL MEDIA
+%A Tse, Daniel W.K
+%A Lee, Dennis C.K.
+%A Gong, House H.
+%A Sae, Puttipong M.
+%A Lam, Jason W.
+%A Lu, David Z.
+%B PACIS 2014 Proceedings
+%D 2014
+%8 January  1, 2014
+%U https://aisel.aisnet.org/pacis2014/2
+%X According to the “Burson-Marsteller (2013) Check-up insight”, Social Media already became a powerful tool for enterprises across the globe, it showed that “the top 225 companies use Twitter, Facebook, YouTube, blogs and for the first time, Google+, 65% of Latin America companies are now active on at least one Social Media platform..” It’s 2010 study showed that “of the Fortune Global 100 companies, 65% have active Twitter accounts, 54% have Facebook fan pages..”. Social Media is no longer used as an option for business, but taken as a weapon for today’s business expansion. Yet, organizations are very cautious about any possible negative impact such as cyber-attack, privacy violation, damage to branding, lack of control over its content, and non-compliance to the companypolicies, etc. In order not to lag behind by competitors, many enterprises are seeking ways to leverage Social Media – as a “double-edged sword”, and seek ways to avoid any business risks. Thus it is vital that a proper enterprise strategy and a risk-plan to be adopted to address those risks. Through the case-study approach, this paper aims to study the possible strategies that organization taking to manage the negative impact in Social Media, to investigate what influence their decisions in choosing the strategies and if there could be a better governance framework to address these issues.
+
+
+%T A Conceptual Model and Typology for Information Systems Controls
+%0 Journal Article
+%A Limonad, Lior
+%A Wand, Yair
+%B AMCIS 2009 Proceedings
+%D 2009
+%8 January  1, 2009
+%U https://aisel.aisnet.org/amcis2009/469
+%X Controls are widely used in business and are often related to information technology (IT) because IT systems are used to implement business controls and because the introduction of IT entails additional control concerns. Thus, control aspects should be part of information systems analysis and design. Furthermore, information systems need to be examined for completeness and correctness of their controls. However, despite the importance of IT controls, no general, well formalized framework is available to guide the analysis of controls requirements, the design of controls in systems, and the audit of existing systems. This paper presents a conceptual framework of controls based on an ontological foundation and an extended typology of IT controls. The framework can be used to analyze IT control issues and manage IT control assets. An initial evaluation of the typology using a published control framework and an example indicates its potential usefulness.
+
+
+%T Technological Support for a Learning Oriented Knowledge Management System
+%0 Journal Article
+%A Hall, Dianne
+%A Guo, Yi M.
+%A Cegielski, Casey
+%A Davis, Robert A.
+%B AMCIS 2005 Proceedings
+%D 2005
+%8 January  1, 2005
+%U https://aisel.aisnet.org/amcis2005/388
+%X Knowledge management is quickly becoming a requirement for today’s complex organizations. Creating and managing existing knowledge has been linked to successful innovation and to sustainable competitive advantage. However, systems specifically designed to manage knowledge, support knowledge creation, and verify existing knowledge are in their infancy. This article follows the framework for a Learning-Oriented Knowledge Management System, and shows how such a complex system can be supported by an equally complex technology – that is, a multi-agent system. We define single agents and multi-agent systems and subsystems in the context of knowledge management systems in general, and the Learning-Oriented Knowledge Management System (LOKMS) specifically. We show how a multi-agent system can be conceived to fully support the LOKMS, describe some necessary agents and agent subsystems, and demonstrate prototypically a multi-agent system designed and built to support the integrity-checking component of the LOKMS. This system begins the process of LOKMS design and development.
+
+
+%T How to Teach Regulatory Compliant Data Warehouse Engineering?
+%A Becker, Jörg
+%A Eggert, Mathias
+%A Knackstedt, Ralf
+%A Fleischer, Stefan
+%B AMCIS 2013 Proceedings
+%D 2013
+%8 May 30, 2013
+%U https://aisel.aisnet.org/amcis2013/ISEducation/GeneralPresentations/22
+%X The steady increase of regulatory reporting requirements for banks increases the demand for compliant data warehouse and reporting systems. Data warehouse designers are forced to work in interdisciplinary teams consisting of accountants and legal experts in order to meet the regulatory requirements. In this paper, we present a teaching concept that simulates a realistic data warehouse development scenario in financial service industries. By applying this teaching concept, students learn how to design compliant data warehouse systems. Implicitly students experience the challenges of interdisciplinary data warehouse engineering teams and conceptual (reference) modeling. The didactical concept, which is based on learning levels, sensitizes students for the usefulness and applicability of conceptual (reference) modeling and was positively evaluated in two elective courses.
+
+
+%T IDENTITY MANAGEMENT IN BUSINESS PROCESS MODELLING: A MODEL-DRIVEN APPROACH
+%0 Journal Article
+%A Klarl, Heiko
+%A Wolff, Christian
+%A Emig, Christian
+%B Wirtschaftsinformatik Proceedings 2009
+%D 2009
+%8 January  1, 2009
+%U https://aisel.aisnet.org/wi2009/20
+%X The modelling of business processes is widely used in enterprises. Though this is very common, requirements for identity management and access control are often collected separately in documents or requirement tools. Due to the business-driven background of access control, this kind of requirement should be collected at the business site's business process model. This work introduces a meta-model for modelling access control requirements at the business process level. It combines the model and its requirements, reducing the risk of inconsistencies caused by process changes. A model-driven development process utilises the enriched models for generating policies for different identity management products.
+
+
+%T Privacy Preserving Network Security Data Analytics: Architectures and System Design
+%A DeYoung, Mark
+%A Kobezak, Philip
+%A Raymond, David
+%A Marchany, Randy
+%A Tront, Joseph
+%B Hawaii International Conference on System Sciences 2018 (HICSS-51)
+%D 2018
+%8 January  3, 2018
+%U https://aisel.aisnet.org/hicss-51/os/data_management/2
+%X An incessant rhythm of data breaches, data leaks, and privacy exposure highlights the need to improve control over potentially sensitive data. History has shown that neither public nor private sector organizations are immune. Lax data handling, incidental leakage, and adversarial breaches are all contributing factors. Prudent organizations should consider the sensitive nature of network security data. Logged events often contain data elements that are directly correlated with sensitive information about people and their activities -- often at the same level of detail as sensor data. Our intent is to produce a database which holds network security data representative of people's interaction with the network mid-points and end-points without the problems of identifiability. In this paper we discuss architectures and propose a system design that supports a risk based approach to privacy preserving data publication of network security data that enables network security data analytics research.
+
+
+%T Fine Grained Approach for Domain Specific Seed URL Extraction
+%A Sanagavarapu, Lalit Mohan
+%A Sarangi, Sourav
+%A Y, Raghu Reddy
+%A Varma, Vasudeva
+%B Hawaii International Conference on System Sciences 2018 (HICSS-51)
+%D 2018
+%8 January  3, 2018
+%U https://aisel.aisnet.org/hicss-51/dsm/data_mining/6
+%X Domain Specific Search Engines are expected to provide relevant search results. Availability of enormous number of URLs across subdomains improves relevance of domain specific search engines. The current methods for seed URLs can be systematic ensuring representation of subdomains. We propose a fine grained approach for automatic extraction of seed URLs at subdomain level using Wikipedia and Twitter as repositories. A SeedRel metric and a Diversity Index for seed URL relevance are proposed to measure subdomain coverage. We implemented our approach for 'Security - Information and Cyber' domain and identified 34,007 Seed URLs and 400,726 URLs across subdomains. The measured Diversity index value of 2.10 conforms that all subdomains are represented, hence, a relevant 'Security Search Engine' can be built. Our approach also extracted more URLs (seed and child) as compared to existing approaches for URL extraction.
+
+
+%T Tailoring the Cyber Security Framework:  How to Overcome the Complexities of Secure Live Virtual Machine Migration in Cloud Computing
+%0 Journal Article
+%A Deylami, Hanif
+%A Gutierrez, Jairo
+%A Sinha, Roopak
+%B CONF-IRM 2020 Proceedings
+%D 2020
+%8 May  1, 2020
+%U https://aisel.aisnet.org/confirm2020/5
+%X This paper proposes a novel secure live virtual machine migration framework by using a virtual trusted platform module instance to improve the integrity of the migration process from one virtual machine to another on the same platform. The proposed framework, called Kororā, is designed and developed on a public infrastructure-as-a-service cloud-computing environment and runs concurrently on the same hardware components (Input/Output, Central Processing Unit, Memory) and the same hypervisor (Xen); however, a combination of parameters needs to be evaluated before implementing Kororā. The implementation of Kororā is not practically feasible in traditional distributed computing environments. It requires fixed resources with high-performance capabilities, connected through a high-speed, reliable network. The following research objectives were determined to identify the integrity features of live virtual machine migration in the cloud system:   To understand the security issues associated with cloud computing, virtual trusted platform modules, virtualization, live virtual machine migration, and hypervisors; To identify the requirements for the proposed framework, including those related to live VM migration among different hypervisors; To design and validate the model, processes, and architectural features of the proposed framework; To propose and implement an end-to-end security architectural blueprint for cloud environments, providing an integrated view of protection mechanisms, and then to validate the proposed framework to improve the integrity of live VM migration. 
+%X This is followed by a comprehensive review of the evaluation system architecture and the proposed framework state machine. The overarching aim of this paper, therefore, is to present a detailed analysis of the cloud computing security problem, from the perspective of cloud architectures and the cloud service delivery models. Based on this analysis, this study derives a detailed specification of the cloud live virtual machine migration integrity problem and key features that should be covered by the proposed framework
+
+
+%T Web Service Based Universal Management of Workflow Resources
+%0 Journal Article
+%A Jang, Jinyoung
+%A Choi, Yongsun
+%B ICEB 2004 Proceedings (Beijing, China)
+%D 2004
+%8 December  5, 2004
+%U https://aisel.aisnet.org/iceb2004/69
+%X Implementing business process solutions in the way of Web service is being positioned in the center of workflow manag ement. However, there is no robust standard to expose and access workflow resources by Web service interfaces. In this paper, we propose a web service based workflow resource management framework named Universal Resource Manage ment Framework (URMF) with declarations of web service interfaces and interaction protocols among them. We also in troduce a substitutive workflow interface model employing Web services and URMF. Finally, a prototype implementati on model of URMF with J2EE platform is also introduced.
+
+
+%T Evolving team dynamics in IS implementation
+%0 Journal Article
+%A Tan, Michael T.K.
+%A Tan, Hung-Pheng
+%A Koh, Elizabeth
+%A King, Ern-Shan
+%B ECIS 2006 Proceedings
+%D 2006
+%8 January  1, 2006
+%U https://aisel.aisnet.org/ecis2006/144
+%X The tremendous technological changes today have increased the sophistication of Information Systems (IS) functionality and complexity in IS implementation team dynamics. Many projects now frequently involve not only in-house IT professionals and business users but also consultants and/or vendors as key members in the implementation team. Thus, the traditional IT-business relationship is increasingly being expanded to include key external stakeholders – all of whom must collectively fulfil their respective roles and responsibilities in a coordinated manner in order to ensure a successful implementation. These complex and multi-faceted relationships could affect the success of IS projects such as the Customer Relationship Management (CRM) systems which have seen particularly high failure rates. This study aims to shed light on such evolving IS implementation team dynamics. We focus our study on the various roles in the team during the implementation of a CRM project in a major bank in Singapore. Interestingly, our findings reveal the dynamic and fluid nature of these roles among the multiple work groups during the development process. In particular, we witnessed fluid “leadersupporter- follower” dynamics instead of the expected traditional static “leader-follower” hierarchy commonly seen in many past IS projects. The case study suggests that the key to successful IS implementation lies in a keen understanding of how specific knowledge flows can precipitate such “leader-supporter-follower” dynamics.
+
+
+%T ROLE MODEL OPTIMIZATION FOR SECURE ROLE-BASED IDENTITY MANAGEMENT
+%A Fuchs, Ludwig
+%A Kunz, Michael
+%A Pernul, Günther
+%B ECIS 2014 Proceedings
+%D 2014
+%8 June  7, 2014
+%U https://aisel.aisnet.org/ecis2014/proceedings/track14/7
+%X In the recent past, the application of role-based access control for streamlining Identity and Access Management in organizations has gained significant importance in research and practice. After the initial setup of a role model, the central challenge is its operative management and strategic maintenance. In practice, organizations typically struggle with a high number of potentially outdated and erroneous role definitions leading to security vulnerabilities and compliance violations. Applying a process-oriented approach for assessing and optimizing role definitions is mandatory to keep a role model usable and up to date. Existing research on role system maintenance only provides a limited technical perspective without focusing on the required guidance and applicability in practice. This paper closes the existing gap by proposing ROPM, a structured Role Optimization Process Model for improving the quality of existing role definitions. Based on comprehensive tool support it automates role optimization activities and integrates both, a technical as well as a business-oriented perspective. It is based on the iterative application of role cleansing and role model extension activities in order to reduce erroneous role definitions and (re-)model roles according to organizational requirements. In order to underline applicability, this paper provides a naturalistic evaluation based on real-life data.
+
+
+%T Process Compliance Checking using Taint Flow Analysis
+%A Seeliger, Alexander
+%A Nolle, Timo
+%A Schmidt, Benedikt
+%A Mühlhäuser, Max
+%B ICIS 2016 Proceedings
+%D 2016
+%8 December 11, 2016
+%U https://aisel.aisnet.org/icis2016/DataScience/Presentations/6
+%X Due to the growing complexity of processes, regulations, policies and guidelines (e.g., Sarbanes-Oxley-Act) computer-assisted business process analysis - known as process mining - is becoming more and more relevant for organisations. One discipline of process mining is backward compliance checking, which aims to detect non-compliant process variants based on historic data. Most existing approaches compare the "as-is" view with desired process models. However, most organisations do not maintain such models, making such approaches less attractive. This paper proposes a process flow analysis which uses graph-reachability to check whether the actual "as-is" process graph violates against compliance constraints. Our approach is inspired by the taint flow algorithm which is used in code analysis to identify security vulnerabilities in software applications. We conducted a case study evaluating the compliance of event logs and performed a benchmark to show that our approach outperforms the LTL checker and the PetriNet pattern approach in ProM.
+
+
+%T Action Learning with Second Life - A Pilot Study
+%0 Journal Article
+%A Wagner, Christian
+%A Ip, Rachel K. F.
+%B Journal of Information Systems Education
+%D 2009
+%8 January  1, 2009
+%V 20
+%N 2
+%P 249-258
+%U https://aisel.aisnet.org/jise/vol20/iss2/13
+%X Virtual worlds, computer-based simulated environments in which users interact via avatars, provide an opportunity for the highly realistic enactment of real life activities online. Unlike computer games, which have a pre-defined purpose, pay-off structure, and action patterns, virtual worlds can leave many of these elements for users to determine. One such world, Second Life (SL), is frequently used as platform for revenue generation, information and knowledge sharing, and learning. As a learning environment, Second Life appears to be particularly amenable to action learning, where learners are not simply observers, but plan, implement, observe, and draw conclusions from their actions. We tested the usefulness of SL as an action learning environment in a senior course for management information systems students. The findings demonstrate learning in the SL environment contributes to the students’ perceived value of learning through the Action Learning steps.
+
+
+%T Security Requirements Elicitation from Airline Turnaround Processes
+%A Matulevicius, Raimundas
+%A Norta, Alex
+%A Samarütel, Silver
+%B Business & Information Systems Engineering
+%D 2018
+%8 February  6, 2018
+%V 60
+%N 1
+%P 3-20
+%U https://aisel.aisnet.org/bise/vol60/iss1/2
+%X Security risk management is an important part of system development. Given that a majority of modern organizations rely heavily on information systems, security plays a big part in ensuring smooth operations of business processes. For example, many people rely on e-services offered by banks and medical establishments. Inadequate security measures in information systems have unwanted effects on an organization’s reputation and on people’s lives. This case study paper targets the secure system development problem by suggesting the application of security requirements elicitation from business processes (SREBP). This approach provides business analysts with means to elicit and introduce security requirements to business processes through the application of the security risk-oriented patterns (SRPs). These patterns help find security risk occurrences in business processes and present mitigations for these risks. At the same time, they reduce the efforts needed for risk analysis. In this paper, the authors report their experience to derive security requirements for mitigating security risks in the distributed airline turnaround Systems.
+
+
+%T A METHOD FOR MANAGING IT-BASED BOUNDARY OBJECTS: DESIGN AND APPLICATION IN THE PUBLIC SECTOR
+%A Folmer, Erwin
+%A Heddier, Marcel
+%A Matzner, Martin
+%A Räckers, Michael
+%A Becker, Jörg
+%B ECIS 2014 Proceedings
+%D 2014
+%8 June  7, 2014
+%U https://aisel.aisnet.org/ecis2014/proceedings/track23/5
+%X To achieve high-quality services offerings, public administrations need to cooperate with other institutions across organizational boundaries. The required cooperation may lead to a complex network including several of the thousands public administrations, enterprises and citizens on the different federal layers of a single country. Key challenge for achieving smooth end-to-end processes in such setting is a proper management of information exchanges at the interfaces between networked actors, as it is the exchange of information that glus together separated chunks of a process. This article conceptualizes the digital information assets residing at the interfaces between the different actors as IT-based boundaries objects. It further reports on a design research process that was initiated by the German Federal Ministry of Interior, which felt the need for a nationwide management method for those IT-based boundary objects. The achieved method extends the BOMOS framework as developed by the Dutch government and adopted by the European Commission. Notably, the method assists in designing and maintaining IT-based boundary objects while it takes horizontal and vertical division of competences in fed-eral legislative and administrative structures into account. The main contributions of this article are the description of the method, the demonstration of its application, and an evaluation of its utility.
+
+
+%T The Influence of the Information Systems Development Approach on Maintenance
+%0 Journal Article
+%A Dekleva, Sasa
+%B Management Information Systems Quarterly
+%D 1992
+%8 December 31, 1992
+%V 16
+%N 3
+%U https://aisel.aisnet.org/misq/vol16/iss3/5
+
+
+%T Security Operations Centers: A Holistic View on Problems and Solutions
+%A Shutock, Matthew
+%A Dietrich, Glenn
+%B Hawaii International Conference on System Sciences 2022 (HICSS-55)
+%D 2022
+%8 January  3, 2022
+%U https://aisel.aisnet.org/hicss-55/st/digital_forensics/4
+%X Since Security Operations Centers (SOCs) were first implemented, they have strived to protect the organization and constituency they serve from all manner of Information Technology (IT) security threats. As SOCs have evolved over time to become as effective and efficient at this as possible, they have struggled with changes and upgrades to their foundational elements of people, processes, and technology in pursuit of this mission. While most relevant literature focuses on one challenge a SOC faces, or one aspect of one problem, the authors of this paper performed a literature review to identify and discuss the top current and future challenges that SOCs face in addition to the top current and future solutions to these problems.
+
+
+%T A Comprehensive Method to Assess Work System Security Risk
+%0 Journal Article
+%A Yadav, Surya B. Ph.D.
+%A Dong, Tianxi
+%B Communications of the Association for Information Systems
+%D 2014
+%8 January  1, 2014
+%V 34
+%N 1
+%U https://aisel.aisnet.org/cais/vol34/iss1/8
+%X This article presents a comprehensive method to assess system security risks. The method includes a cohesive set of steps to not only identify a more complete set of security risks but also assess them in a systematic manner. The method is based on the integration of two kinds of models: (1) qualitative models emphasizing security risk factors and security requirement determination and (2) quantitative models that focus on formal evaluation and assessment of system security risks. Unlike most of the existing methods, the proposed method covers the whole process of system security risk assessment spanning all three phases—ascertainment of security requirements, measurement of evidence for security requirements, and evaluation of evidence against the needed security mechanisms. The article extends existing work on system security risk methods by incorporating new ideas of multifaceted security view and work system in a coherent set of steps. The article demonstrates the application of the proposed method to a real application and discusses the major results.
+
+
+%T Web Engineering Security (WES) Methodology
+%0 Journal Article
+%A Glisson, William Bradley
+%A Welland, Ray
+%B Communications of the Association for Information Systems
+%D 2014
+%8 January  1, 2014
+%V 34
+%N 1
+%U https://aisel.aisnet.org/cais/vol34/iss1/71
+%X The impact of the World Wide Web on basic operational economical components in global information-rich civilizations is significant. The repercussions force organizations to provide justification for security from a business-case perspective and to focus on security from a Web application development environment standpoint. The need for clarity promoted an investigation through the acquisition of empirical evidence from a high level Web survey and a more detailed industry survey to analyze security in the Web application development environment ultimately contributing to the proposal of the Essential Elements (EE) and the Security Criteria for Web Application Development (SCWAD). The synthesis of information provided was used to develop the Web Engineering Security (WES) methodology. WES is a proactive, flexible, process neutral security methodology with customizable components that is based on empirical evidence and used to explicitly integrate security throughout an organization’s chosen application development process.
+
+
+%T Perception of Benefits Achieved by IT Management Accounting in the Public Sector
+%0 Journal Article
+%A Greger, Vanessa
+%A Wolf, Petra
+%A Krcmar, Helmut
+%B Wirtschaftsinformatik Proceedings 2015
+%D 2015
+%8 March  4, 2015
+%U https://aisel.aisnet.org/wi2015/41
+%X Information technology (IT) is of high relevance in public administrations. Thus, a systematic management and control of its usage is required. IT management accounting is an instrument addressing this issue. However, public IT-managers do not perceive its supposed benefits due to the way in which it is currently implemented. This leads to a low usage of IT management accounting in public administrations. To analyze the gap between its supposed and perceived benefits, we reviewed literature and conducted a case study in a German public administration. Our findings show that - out of the various benefits of IT management accounting according to the literature - public IT-managers only focus on transparency and support for decision-making as benefits. The findings contribute to a better understanding of IT management accounting in public administrations and support practitioners by designing IT management accounting according to the potential benefits for departmental and cross-departmental IT-managers.
+
+
+%T Research on the improvement of ERP implementation in purchasing departments from the perspective of internal control
+%0 Journal Article
+%A Zhao, Ying
+%A Li, Wei
+%B ICEB 2018 Proceedings (Guilin, China)
+%D 2018
+%8 December  6, 2018
+%U https://aisel.aisnet.org/iceb2018/49
+%X With the wide applications and development of information technology and network technology, focusing on the background of ERP (enterprise resource planning) systems and people's reliance on both information system and accounting information systems, as important parts of ERP, plays a vital role in the management of enterprises. However, due to the continuous introduction of new innovations in the ERP system, enterprises continue to improve their competitiveness and management levels. When advanced ERP management can be practically implemented in the system, it will inevitably present difficult internal control measures, network environmental risks and many other problems. Then how to build the internal control system to ensure that enterprises in the pursuit of ERP information systems, simultaneously better serve the enterprise's own internal controls and management, and minimize the internal control and design defects. In addition to the system controls, in order to better conduct internal controls, one must deeply investigate the business processes, using necessary informational means, and constantly change their own architecture and business process reengineering (BPR), in order to technically improve the internal governance structure. Thus, the corresponding internal controls will include the system-oriented controls and the various business, personnel, and departments’ overall grasp of the change. This encourages enterprises to seek reasonable ways, methods and ideas for continuous innovation. We should actively address and adjust the challenges brought by the internal control system of the accounting information system under the ERP environment, and make full use of ERP technology and BPR to realize the internal control norms of enterprises.
+
+
+%T A Sustainable Approach to Security and Privacy in Health Information Systems
+%0 Journal Article
+%A Liu, Vicky
+%A May, Lauren
+%A Caelli, William
+%A Croll, Peter
+%B ACIS 2007 Proceedings
+%D 2007
+%8 January  1, 2007
+%U https://aisel.aisnet.org/acis2007/46
+%X This paper identifies and discusses recent information privacy violations or weaknesses which have been found in national infrastructure systems in Australia, the United Kingdom (UK) and the United States of America (USA), two of which involve departments of health and social services. The feasibility of health information systems (HIS) based upon intrinsically more secure technological architectures than those in general use in today's marketplace is investigated. We propose a viable and sustainable IT solution which addresses the privacy and security concerns at all levels in HIS with a focus on trustworthy access control mechanisms.
+
+
+%T Exploring Affordances of Slack Integrations and Their Actualization Within Enterprises - Towards an Understanding of How Chatbots Create Value
+%A Stoeckli, Emanuel
+%A Uebernickel, Falk
+%A Brenner, Walter
+%B Hawaii International Conference on System Sciences 2018 (HICSS-51)
+%D 2018
+%8 January  3, 2018
+%U https://aisel.aisnet.org/hicss-51/dsm/social_is/2
+%X The rise of chatbots poses new possibilities to link social interactions within instant messengers with third-party systems and business processes. While many companies use chatbots within the enterprise in the form of Slack apps and integrations, little is known about their affordances. Grounded in a qualitative research endeavour, we conducted 12 explorative interviews in 8 organizational settings to inductively gain rich contextual insights. Our results reveal 14 functional affordances in 4 categories, elucidating how their actualization leads to the perception of higher level affordances and constraints. First, we discuss how chatbots augment social information systems with affordances of traditional enterprise systems, and therefore, enable bottom-up automation. Second, we elaborate on how the actualization of an affordance by one user may facilitate its perception by other users. Thus, we contribute towards a better understanding of how chatbots create value.
+
+
+%T Cyber-physical Systems (CPS) Security: State of the Art and Research Opportunities for Information Systems Academics
+%A Kumar, Chetan
+%A Marston, Sean
+%A Sen, Ravi
+%B Communications of the Association for Information Systems
+%D 2020
+%8 December 31, 2020
+%V 47
+%N 1
+%U https://aisel.aisnet.org/cais/vol47/iss1/36
+%X Attacks on cyber-physical systems (CPS) continue to grow in frequency. However, cybersecurity academics and practitioners have so far focused primarily on computer systems and networks rather than CPS. Given the alarming frequency with which cybercriminals attack CPS and the unique cyber-physical relationship in CPS, we propose that CPS security needs go beyond what purely computer and network security requires. Thus, we require more focused research on cybersecurity based on the cyber-physical relationship between various CPS components. In this paper, we stock of the current state of CPS security and identify research opportunities for information systems (IS) academics.
+
+
